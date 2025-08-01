@@ -1,0 +1,7055 @@
+Sales Reconciliation Report
+------------------------------
+Date: 2023-03-03
+  Invoice Count: 3
+  Taxable Amount: $2.58
+  Tax Amount: $0.42
+  Total Receipts: $3.00
+  Total EOD Reports: $3.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-04
+  Invoice Count: 30
+  Taxable Amount: $12499.99
+  Tax Amount: $2000.01
+  Total Receipts: $14500.00
+  Total EOD Reports: $14500.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-05
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-06
+  Invoice Count: 78
+  Taxable Amount: $32241.34
+  Tax Amount: $5158.66
+  Total Receipts: $37400.00
+  Total EOD Reports: $37400.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-07
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-08
+  Invoice Count: 70
+  Taxable Amount: $777689.65
+  Tax Amount: $124430.35
+  Total Receipts: $902120.00
+  Total EOD Reports: $902120.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-09
+  Invoice Count: 34
+  Taxable Amount: $14137.92
+  Tax Amount: $2262.08
+  Total Receipts: $16400.00
+  Total EOD Reports: $16400.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-10
+  Invoice Count: 37
+  Taxable Amount: $15258.62
+  Tax Amount: $2441.38
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-11
+  Invoice Count: 32
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-12
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-13
+  Invoice Count: 41
+  Taxable Amount: $17672.40
+  Tax Amount: $2827.60
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-14
+  Invoice Count: 80
+  Taxable Amount: $34224.13
+  Tax Amount: $5475.87
+  Total Receipts: $39700.00
+  Total EOD Reports: $39700.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-15
+  Invoice Count: 44
+  Taxable Amount: $18362.07
+  Tax Amount: $2937.93
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-16
+  Invoice Count: 40
+  Taxable Amount: $16982.74
+  Tax Amount: $2717.26
+  Total Receipts: $19700.00
+  Total EOD Reports: $19700.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-17
+  Invoice Count: 35
+  Taxable Amount: $14224.16
+  Tax Amount: $2275.84
+  Total Receipts: $16500.00
+  Total EOD Reports: $16500.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-18
+  Invoice Count: 32
+  Taxable Amount: $13275.83
+  Tax Amount: $2124.17
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-19
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-20
+  Invoice Count: 75
+  Taxable Amount: $31465.47
+  Tax Amount: $5034.53
+  Total Receipts: $36500.00
+  Total EOD Reports: $36500.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-21
+  Invoice Count: 43
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-22
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-23
+  Invoice Count: 33
+  Taxable Amount: $16206.91
+  Tax Amount: $2593.09
+  Total Receipts: $18800.00
+  Total EOD Reports: $18800.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-24
+  Invoice Count: 32
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-25
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-26
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-27
+  Invoice Count: 73
+  Taxable Amount: $30862.05
+  Tax Amount: $4937.95
+  Total Receipts: $35800.00
+  Total EOD Reports: $35800.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-28
+  Invoice Count: 37
+  Taxable Amount: $15344.81
+  Tax Amount: $2455.19
+  Total Receipts: $17800.00
+  Total EOD Reports: $17800.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-29
+  Invoice Count: 40
+  Taxable Amount: $16724.13
+  Tax Amount: $2675.87
+  Total Receipts: $19400.00
+  Total EOD Reports: $19400.00
+  Difference: $0.00
+--------------------
+Date: 2023-03-30
+  Invoice Count: 43
+  Taxable Amount: $5738381.31
+  Tax Amount: $918141.03
+  Total Receipts: $6656522.34
+  Total EOD Reports: $4443081.56
+  Difference: $2213440.78
+  DISCREPANCY FOUND!
+--------------------
+Date: 2023-03-31
+  Invoice Count: 36
+  Taxable Amount: $15172.41
+  Tax Amount: $2427.59
+  Total Receipts: $17600.00
+  Total EOD Reports: $17600.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-01
+  Invoice Count: 31
+  Taxable Amount: $12499.98
+  Tax Amount: $2000.02
+  Total Receipts: $14500.00
+  Total EOD Reports: $14500.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-02
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-03
+  Invoice Count: 79
+  Taxable Amount: $33362.04
+  Tax Amount: $5337.96
+  Total Receipts: $38700.00
+  Total EOD Reports: $38700.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-04
+  Invoice Count: 44
+  Taxable Amount: $18706.87
+  Tax Amount: $2993.13
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-05
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-06
+  Invoice Count: 56
+  Taxable Amount: $708379.30
+  Tax Amount: $113340.70
+  Total Receipts: $821720.00
+  Total EOD Reports: $821720.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-07
+  Invoice Count: 30
+  Taxable Amount: $12327.58
+  Tax Amount: $1972.42
+  Total Receipts: $14300.00
+  Total EOD Reports: $14300.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-08
+  Invoice Count: 28
+  Taxable Amount: $11293.09
+  Tax Amount: $1806.91
+  Total Receipts: $13100.00
+  Total EOD Reports: $13100.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-09
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-10
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-11
+  Invoice Count: 104
+  Taxable Amount: $43534.44
+  Tax Amount: $6965.56
+  Total Receipts: $50500.00
+  Total EOD Reports: $50500.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-12
+  Invoice Count: 40
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-13
+  Invoice Count: 38
+  Taxable Amount: $15948.27
+  Tax Amount: $2551.73
+  Total Receipts: $18500.00
+  Total EOD Reports: $18500.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-14
+  Invoice Count: 35
+  Taxable Amount: $14568.95
+  Tax Amount: $2331.05
+  Total Receipts: $16900.00
+  Total EOD Reports: $16900.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-15
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-16
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-17
+  Invoice Count: 109
+  Taxable Amount: $47068.95
+  Tax Amount: $7531.05
+  Total Receipts: $54600.00
+  Total EOD Reports: $54600.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-18
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-19
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-20
+  Invoice Count: 34
+  Taxable Amount: $14224.12
+  Tax Amount: $2275.88
+  Total Receipts: $16500.00
+  Total EOD Reports: $16500.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-21
+  Invoice Count: 35
+  Taxable Amount: $14568.95
+  Tax Amount: $2331.05
+  Total Receipts: $16900.00
+  Total EOD Reports: $16900.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-22
+  Invoice Count: 33
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-23
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-24
+  Invoice Count: 83
+  Taxable Amount: $34913.76
+  Tax Amount: $5586.24
+  Total Receipts: $40500.00
+  Total EOD Reports: $40500.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-25
+  Invoice Count: 42
+  Taxable Amount: $18103.44
+  Tax Amount: $2896.56
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-26
+  Invoice Count: 37
+  Taxable Amount: $15344.81
+  Tax Amount: $2455.19
+  Total Receipts: $17800.00
+  Total EOD Reports: $17800.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-27
+  Invoice Count: 33
+  Taxable Amount: $13793.09
+  Tax Amount: $2206.91
+  Total Receipts: $16000.00
+  Total EOD Reports: $16000.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-28
+  Invoice Count: 35
+  Taxable Amount: $14396.54
+  Tax Amount: $2303.46
+  Total Receipts: $16700.00
+  Total EOD Reports: $16700.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-29
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2023-04-30
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-01
+  Invoice Count: 39
+  Taxable Amount: $16810.34
+  Tax Amount: $2689.66
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-02
+  Invoice Count: 64
+  Taxable Amount: $711913.78
+  Tax Amount: $113906.22
+  Total Receipts: $825820.00
+  Total EOD Reports: $825820.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-03
+  Invoice Count: 44
+  Taxable Amount: $18275.83
+  Tax Amount: $2924.17
+  Total Receipts: $21200.00
+  Total EOD Reports: $21200.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-04
+  Invoice Count: 40
+  Taxable Amount: $18275.83
+  Tax Amount: $2924.17
+  Total Receipts: $21200.00
+  Total EOD Reports: $21200.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-05
+  Invoice Count: 35
+  Taxable Amount: $14396.54
+  Tax Amount: $2303.46
+  Total Receipts: $16700.00
+  Total EOD Reports: $16700.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-06
+  Invoice Count: 31
+  Taxable Amount: $13189.65
+  Tax Amount: $2110.35
+  Total Receipts: $15300.00
+  Total EOD Reports: $15300.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-07
+  Invoice Count: 40
+  Taxable Amount: $16724.11
+  Tax Amount: $2675.89
+  Total Receipts: $19400.00
+  Total EOD Reports: $19400.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-08
+  Invoice Count: 44
+  Taxable Amount: $17931.01
+  Tax Amount: $2868.99
+  Total Receipts: $20800.00
+  Total EOD Reports: $20800.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-09
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-10
+  Invoice Count: 88
+  Taxable Amount: $37068.92
+  Tax Amount: $5931.08
+  Total Receipts: $43000.00
+  Total EOD Reports: $43000.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-11
+  Invoice Count: 41
+  Taxable Amount: $17327.57
+  Tax Amount: $2772.43
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-12
+  Invoice Count: 34
+  Taxable Amount: $14224.12
+  Tax Amount: $2275.88
+  Total Receipts: $16500.00
+  Total EOD Reports: $16500.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-13
+  Invoice Count: 33
+  Taxable Amount: $13793.09
+  Tax Amount: $2206.91
+  Total Receipts: $16000.00
+  Total EOD Reports: $16000.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-14
+  Invoice Count: 37
+  Taxable Amount: $15344.81
+  Tax Amount: $2455.19
+  Total Receipts: $17800.00
+  Total EOD Reports: $17800.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-15
+  Invoice Count: 42
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-16
+  Invoice Count: 43
+  Taxable Amount: $18620.67
+  Tax Amount: $2979.33
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-17
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-18
+  Invoice Count: 38
+  Taxable Amount: $15603.43
+  Tax Amount: $2496.57
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-19
+  Invoice Count: 38
+  Taxable Amount: $15603.43
+  Tax Amount: $2496.57
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-20
+  Invoice Count: 34
+  Taxable Amount: $14224.12
+  Tax Amount: $2275.88
+  Total Receipts: $16500.00
+  Total EOD Reports: $16500.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-21
+  Invoice Count: 37
+  Taxable Amount: $15689.65
+  Tax Amount: $2510.35
+  Total Receipts: $18200.00
+  Total EOD Reports: $18200.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-22
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-23
+  Invoice Count: 44
+  Taxable Amount: $18620.67
+  Tax Amount: $2979.33
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-24
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-25
+  Invoice Count: 43
+  Taxable Amount: $17586.17
+  Tax Amount: $2813.83
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-26
+  Invoice Count: 33
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-27
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-28
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-29
+  Invoice Count: 45
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-30
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-05-31
+  Invoice Count: 45
+  Taxable Amount: $19137.92
+  Tax Amount: $3062.08
+  Total Receipts: $22200.00
+  Total EOD Reports: $22200.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-01
+  Invoice Count: 41
+  Taxable Amount: $17327.57
+  Tax Amount: $2772.43
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-02
+  Invoice Count: 35
+  Taxable Amount: $14396.54
+  Tax Amount: $2303.46
+  Total Receipts: $16700.00
+  Total EOD Reports: $16700.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-03
+  Invoice Count: 34
+  Taxable Amount: $14051.71
+  Tax Amount: $2248.29
+  Total Receipts: $16300.00
+  Total EOD Reports: $16300.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-04
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-05
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-06
+  Invoice Count: 43
+  Taxable Amount: $18534.47
+  Tax Amount: $2965.53
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-07
+  Invoice Count: 48
+  Taxable Amount: $20517.22
+  Tax Amount: $3282.78
+  Total Receipts: $23800.00
+  Total EOD Reports: $23800.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-08
+  Invoice Count: 43
+  Taxable Amount: $18448.27
+  Tax Amount: $2951.73
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-09
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-10
+  Invoice Count: 68
+  Taxable Amount: $778551.73
+  Tax Amount: $124568.27
+  Total Receipts: $903120.00
+  Total EOD Reports: $899920.00
+  Difference: $3200.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2023-06-11
+  Invoice Count: 39
+  Taxable Amount: $16724.14
+  Tax Amount: $2675.86
+  Total Receipts: $19400.00
+  Total EOD Reports: $19400.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-12
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-13
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-14
+  Invoice Count: 49
+  Taxable Amount: $20775.85
+  Tax Amount: $3324.15
+  Total Receipts: $24100.00
+  Total EOD Reports: $24100.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-15
+  Invoice Count: 39
+  Taxable Amount: $15862.04
+  Tax Amount: $2537.96
+  Total Receipts: $18400.00
+  Total EOD Reports: $18400.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-16
+  Invoice Count: 36
+  Taxable Amount: $14655.15
+  Tax Amount: $2344.85
+  Total Receipts: $17000.00
+  Total EOD Reports: $17000.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-17
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-18
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-19
+  Invoice Count: 43
+  Taxable Amount: $18534.47
+  Tax Amount: $2965.53
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-20
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-21
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-22
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-23
+  Invoice Count: 37
+  Taxable Amount: $15517.22
+  Tax Amount: $2482.78
+  Total Receipts: $18000.00
+  Total EOD Reports: $18000.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-24
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-25
+  Invoice Count: 41
+  Taxable Amount: $17327.57
+  Tax Amount: $2772.43
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-26
+  Invoice Count: 41
+  Taxable Amount: $17327.57
+  Tax Amount: $2772.43
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-27
+  Invoice Count: 43
+  Taxable Amount: $18534.47
+  Tax Amount: $2965.53
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-28
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-29
+  Invoice Count: 43
+  Taxable Amount: $18275.85
+  Tax Amount: $2924.15
+  Total Receipts: $21200.00
+  Total EOD Reports: $21200.00
+  Difference: $0.00
+--------------------
+Date: 2023-06-30
+  Invoice Count: 35
+  Taxable Amount: $14482.77
+  Tax Amount: $2317.23
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-01
+  Invoice Count: 32
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-02
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-03
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-04
+  Invoice Count: 47
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-05
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-06
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-07
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-08
+  Invoice Count: 59
+  Taxable Amount: $772379.30
+  Tax Amount: $123580.70
+  Total Receipts: $895960.00
+  Total EOD Reports: $858840.00
+  Difference: $37120.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2023-07-09
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-10
+  Invoice Count: 43
+  Taxable Amount: $17758.59
+  Tax Amount: $2841.41
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-11
+  Invoice Count: 43
+  Taxable Amount: $17758.59
+  Tax Amount: $2841.41
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-12
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-13
+  Invoice Count: 74
+  Taxable Amount: $31206.88
+  Tax Amount: $4993.12
+  Total Receipts: $36200.00
+  Total EOD Reports: $36200.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-14
+  Invoice Count: 38
+  Taxable Amount: $15603.43
+  Tax Amount: $2496.57
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-15
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-16
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-17
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-18
+  Invoice Count: 44
+  Taxable Amount: $18103.42
+  Tax Amount: $2896.58
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-19
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-20
+  Invoice Count: 63
+  Taxable Amount: $25948.26
+  Tax Amount: $4151.74
+  Total Receipts: $30100.00
+  Total EOD Reports: $30100.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-21
+  Invoice Count: 28
+  Taxable Amount: $12068.95
+  Tax Amount: $1931.05
+  Total Receipts: $14000.00
+  Total EOD Reports: $14000.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-22
+  Invoice Count: 30
+  Taxable Amount: $12155.16
+  Tax Amount: $1944.84
+  Total Receipts: $14100.00
+  Total EOD Reports: $14100.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-23
+  Invoice Count: 34
+  Taxable Amount: $14224.12
+  Tax Amount: $2275.88
+  Total Receipts: $16500.00
+  Total EOD Reports: $16500.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-24
+  Invoice Count: 41
+  Taxable Amount: $17586.20
+  Tax Amount: $2813.80
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-25
+  Invoice Count: 47
+  Taxable Amount: $19568.95
+  Tax Amount: $3131.05
+  Total Receipts: $22700.00
+  Total EOD Reports: $22700.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-26
+  Invoice Count: 48
+  Taxable Amount: $1927621.32
+  Tax Amount: $308419.44
+  Total Receipts: $2236040.76
+  Total EOD Reports: $2236040.76
+  Difference: $0.00
+--------------------
+Date: 2023-07-27
+  Invoice Count: 39
+  Taxable Amount: $15603.43
+  Tax Amount: $2496.57
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-28
+  Invoice Count: 38
+  Taxable Amount: $15603.43
+  Tax Amount: $2496.57
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-29
+  Invoice Count: 35
+  Taxable Amount: $14655.17
+  Tax Amount: $2344.83
+  Total Receipts: $17000.00
+  Total EOD Reports: $17000.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-30
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2023-07-31
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-01
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-02
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-03
+  Invoice Count: 30
+  Taxable Amount: $12068.96
+  Tax Amount: $1931.04
+  Total Receipts: $14000.00
+  Total EOD Reports: $14000.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-04
+  Invoice Count: 37
+  Taxable Amount: $15517.24
+  Tax Amount: $2482.76
+  Total Receipts: $18000.00
+  Total EOD Reports: $18000.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-05
+  Invoice Count: 35
+  Taxable Amount: $14827.58
+  Tax Amount: $2372.42
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-06
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-07
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-08
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-09
+  Invoice Count: 67
+  Taxable Amount: $689327.58
+  Tax Amount: $110292.42
+  Total Receipts: $799620.00
+  Total EOD Reports: $799620.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-10
+  Invoice Count: 43
+  Taxable Amount: $42844.80
+  Tax Amount: $6855.20
+  Total Receipts: $49700.00
+  Total EOD Reports: $49700.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-11
+  Invoice Count: 33
+  Taxable Amount: $13793.09
+  Tax Amount: $2206.91
+  Total Receipts: $16000.00
+  Total EOD Reports: $16000.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-12
+  Invoice Count: 35
+  Taxable Amount: $14396.54
+  Tax Amount: $2303.46
+  Total Receipts: $16700.00
+  Total EOD Reports: $16700.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-13
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-14
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-15
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-16
+  Invoice Count: 45
+  Taxable Amount: $19224.13
+  Tax Amount: $3075.87
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-17
+  Invoice Count: 38
+  Taxable Amount: $15689.64
+  Tax Amount: $2510.36
+  Total Receipts: $18200.00
+  Total EOD Reports: $18200.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-18
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-19
+  Invoice Count: 34
+  Taxable Amount: $13793.08
+  Tax Amount: $2206.92
+  Total Receipts: $16000.00
+  Total EOD Reports: $16000.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-20
+  Invoice Count: 41
+  Taxable Amount: $17586.20
+  Tax Amount: $2813.80
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-21
+  Invoice Count: 41
+  Taxable Amount: $17586.20
+  Tax Amount: $2813.80
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-22
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-23
+  Invoice Count: 46
+  Taxable Amount: $19224.13
+  Tax Amount: $3075.87
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-24
+  Invoice Count: 33
+  Taxable Amount: $14827.56
+  Tax Amount: $2372.44
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-25
+  Invoice Count: 38
+  Taxable Amount: $14827.55
+  Tax Amount: $2372.45
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-26
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-27
+  Invoice Count: 42
+  Taxable Amount: $17672.40
+  Tax Amount: $2827.60
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-28
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-29
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-30
+  Invoice Count: 47
+  Taxable Amount: $19482.75
+  Tax Amount: $3117.25
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-08-31
+  Invoice Count: 37
+  Taxable Amount: $15603.44
+  Tax Amount: $2496.56
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-01
+  Invoice Count: 38
+  Taxable Amount: $15603.44
+  Tax Amount: $2496.56
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-02
+  Invoice Count: 37
+  Taxable Amount: $14827.57
+  Tax Amount: $2372.43
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-03
+  Invoice Count: 43
+  Taxable Amount: $18448.24
+  Tax Amount: $2951.76
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-04
+  Invoice Count: 50
+  Taxable Amount: $20948.22
+  Tax Amount: $3351.78
+  Total Receipts: $24300.00
+  Total EOD Reports: $24300.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-05
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-06
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-07
+  Invoice Count: 39
+  Taxable Amount: $16034.52
+  Tax Amount: $2565.48
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-08
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-09
+  Invoice Count: 65
+  Taxable Amount: $865965.50
+  Tax Amount: $138554.50
+  Total Receipts: $1004520.00
+  Total EOD Reports: $952020.00
+  Difference: $52500.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2023-09-10
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-11
+  Invoice Count: 46
+  Taxable Amount: $19741.35
+  Tax Amount: $3158.65
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-12
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-13
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-14
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-15
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-16
+  Invoice Count: 35
+  Taxable Amount: $14482.74
+  Tax Amount: $2317.26
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-17
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-18
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-19
+  Invoice Count: 46
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-20
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-21
+  Invoice Count: 36
+  Taxable Amount: $15172.41
+  Tax Amount: $2427.59
+  Total Receipts: $17600.00
+  Total EOD Reports: $17600.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-22
+  Invoice Count: 35
+  Taxable Amount: $14827.58
+  Tax Amount: $2372.42
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-23
+  Invoice Count: 35
+  Taxable Amount: $14396.54
+  Tax Amount: $2303.46
+  Total Receipts: $16700.00
+  Total EOD Reports: $16700.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-24
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-25
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-26
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-27
+  Invoice Count: 42
+  Taxable Amount: $17327.56
+  Tax Amount: $2772.44
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-28
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-29
+  Invoice Count: 28
+  Taxable Amount: $12068.97
+  Tax Amount: $1931.03
+  Total Receipts: $14000.00
+  Total EOD Reports: $14000.00
+  Difference: $0.00
+--------------------
+Date: 2023-09-30
+  Invoice Count: 30
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-01
+  Invoice Count: 40
+  Taxable Amount: $16982.74
+  Tax Amount: $2717.26
+  Total Receipts: $19700.00
+  Total EOD Reports: $19700.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-02
+  Invoice Count: 40
+  Taxable Amount: $16982.74
+  Tax Amount: $2717.26
+  Total Receipts: $19700.00
+  Total EOD Reports: $19700.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-03
+  Invoice Count: 48
+  Taxable Amount: $1927104.09
+  Tax Amount: $308336.69
+  Total Receipts: $2235440.78
+  Total EOD Reports: $2235440.78
+  Difference: $0.00
+--------------------
+Date: 2023-10-04
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-05
+  Invoice Count: 46
+  Taxable Amount: $19396.54
+  Tax Amount: $3103.46
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-06
+  Invoice Count: 34
+  Taxable Amount: $14310.35
+  Tax Amount: $2289.65
+  Total Receipts: $16600.00
+  Total EOD Reports: $16600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-07
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-08
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-09
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-10
+  Invoice Count: 70
+  Taxable Amount: $715017.24
+  Tax Amount: $114402.76
+  Total Receipts: $829420.00
+  Total EOD Reports: $829420.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-11
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-12
+  Invoice Count: 48
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-13
+  Invoice Count: 39
+  Taxable Amount: $16293.07
+  Tax Amount: $2606.93
+  Total Receipts: $18900.00
+  Total EOD Reports: $18900.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-14
+  Invoice Count: 38
+  Taxable Amount: $15862.04
+  Tax Amount: $2537.96
+  Total Receipts: $18400.00
+  Total EOD Reports: $18400.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-15
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-16
+  Invoice Count: 43
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-17
+  Invoice Count: 47
+  Taxable Amount: $19741.35
+  Tax Amount: $3158.65
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-18
+  Invoice Count: 49
+  Taxable Amount: $20086.19
+  Tax Amount: $3213.81
+  Total Receipts: $23300.00
+  Total EOD Reports: $23300.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-19
+  Invoice Count: 41
+  Taxable Amount: $17672.40
+  Tax Amount: $2827.60
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-20
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-21
+  Invoice Count: 22
+  Taxable Amount: $8275.90
+  Tax Amount: $1324.10
+  Total Receipts: $9600.00
+  Total EOD Reports: $9600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-22
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-23
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-24
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-25
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-26
+  Invoice Count: 39
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-27
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-28
+  Invoice Count: 37
+  Taxable Amount: $14827.57
+  Tax Amount: $2372.43
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-29
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-30
+  Invoice Count: 48
+  Taxable Amount: $19482.72
+  Tax Amount: $3117.28
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-10-31
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-01
+  Invoice Count: 46
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-02
+  Invoice Count: 39
+  Taxable Amount: $16293.08
+  Tax Amount: $2606.92
+  Total Receipts: $18900.00
+  Total EOD Reports: $18900.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-03
+  Invoice Count: 65
+  Taxable Amount: $711827.54
+  Tax Amount: $113892.46
+  Total Receipts: $825720.00
+  Total EOD Reports: $825720.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-04
+  Invoice Count: 35
+  Taxable Amount: $14482.73
+  Tax Amount: $2317.27
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-05
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-06
+  Invoice Count: 48
+  Taxable Amount: $19655.18
+  Tax Amount: $3144.82
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-07
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-08
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-09
+  Invoice Count: 40
+  Taxable Amount: $16465.49
+  Tax Amount: $2634.51
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-10
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-11
+  Invoice Count: 37
+  Taxable Amount: $14827.56
+  Tax Amount: $2372.44
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-12
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-13
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-14
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-15
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-16
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-17
+  Invoice Count: 35
+  Taxable Amount: $14827.58
+  Tax Amount: $2372.42
+  Total Receipts: $17200.00
+  Total EOD Reports: $17200.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-18
+  Invoice Count: 29
+  Taxable Amount: $15948.27
+  Tax Amount: $2551.73
+  Total Receipts: $18500.00
+  Total EOD Reports: $18500.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-19
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-20
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-21
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-22
+  Invoice Count: 46
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-23
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-24
+  Invoice Count: 39
+  Taxable Amount: $16206.87
+  Tax Amount: $2593.13
+  Total Receipts: $18800.00
+  Total EOD Reports: $18800.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-25
+  Invoice Count: 37
+  Taxable Amount: $15258.60
+  Tax Amount: $2441.40
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-26
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-27
+  Invoice Count: 41
+  Taxable Amount: $17672.40
+  Tax Amount: $2827.60
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-28
+  Invoice Count: 41
+  Taxable Amount: $17586.20
+  Tax Amount: $2813.80
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-29
+  Invoice Count: 44
+  Taxable Amount: $18706.87
+  Tax Amount: $2993.13
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2023-11-30
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-01
+  Invoice Count: 41
+  Taxable Amount: $17155.16
+  Tax Amount: $2744.84
+  Total Receipts: $19900.00
+  Total EOD Reports: $19900.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-02
+  Invoice Count: 37
+  Taxable Amount: $15431.01
+  Tax Amount: $2468.99
+  Total Receipts: $17900.00
+  Total EOD Reports: $17900.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-03
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-04
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-05
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-06
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-07
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-08
+  Invoice Count: 39
+  Taxable Amount: $16982.75
+  Tax Amount: $2717.25
+  Total Receipts: $19700.00
+  Total EOD Reports: $19700.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-09
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-10
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-11
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-12
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-13
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-14
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-15
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-16
+  Invoice Count: 40
+  Taxable Amount: $16551.70
+  Tax Amount: $2648.30
+  Total Receipts: $19200.00
+  Total EOD Reports: $19200.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-17
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-18
+  Invoice Count: 71
+  Taxable Amount: $778724.11
+  Tax Amount: $124595.89
+  Total Receipts: $903320.00
+  Total EOD Reports: $903320.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-19
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-20
+  Invoice Count: 41
+  Taxable Amount: $17672.39
+  Tax Amount: $2827.61
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-21
+  Invoice Count: 49
+  Taxable Amount: $3334086.78
+  Tax Amount: $533453.90
+  Total Receipts: $3867540.68
+  Total EOD Reports: $3477540.68
+  Difference: $390000.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2023-12-22
+  Invoice Count: 35
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-23
+  Invoice Count: 30
+  Taxable Amount: $12068.95
+  Tax Amount: $1931.05
+  Total Receipts: $14000.00
+  Total EOD Reports: $14000.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-24
+  Invoice Count: 25
+  Taxable Amount: $10172.40
+  Tax Amount: $1627.60
+  Total Receipts: $11800.00
+  Total EOD Reports: $11800.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-25
+  Invoice Count: 21
+  Taxable Amount: $8620.68
+  Tax Amount: $1379.32
+  Total Receipts: $10000.00
+  Total EOD Reports: $10000.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-26
+  Invoice Count: 25
+  Taxable Amount: $10603.43
+  Tax Amount: $1696.57
+  Total Receipts: $12300.00
+  Total EOD Reports: $12300.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-27
+  Invoice Count: 26
+  Taxable Amount: $11034.47
+  Tax Amount: $1765.53
+  Total Receipts: $12800.00
+  Total EOD Reports: $12800.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-28
+  Invoice Count: 27
+  Taxable Amount: $11293.09
+  Tax Amount: $1806.91
+  Total Receipts: $13100.00
+  Total EOD Reports: $13100.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-29
+  Invoice Count: 28
+  Taxable Amount: $11379.29
+  Tax Amount: $1820.71
+  Total Receipts: $13200.00
+  Total EOD Reports: $13200.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-30
+  Invoice Count: 26
+  Taxable Amount: $11293.10
+  Tax Amount: $1806.90
+  Total Receipts: $13100.00
+  Total EOD Reports: $13100.00
+  Difference: $0.00
+--------------------
+Date: 2023-12-31
+  Invoice Count: 23
+  Taxable Amount: $9310.33
+  Tax Amount: $1489.67
+  Total Receipts: $10800.00
+  Total EOD Reports: $10800.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-01
+  Invoice Count: 27
+  Taxable Amount: $11034.46
+  Tax Amount: $1765.54
+  Total Receipts: $12800.00
+  Total EOD Reports: $12800.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-02
+  Invoice Count: 29
+  Taxable Amount: $12068.95
+  Tax Amount: $1931.05
+  Total Receipts: $14000.00
+  Total EOD Reports: $14000.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-03
+  Invoice Count: 44
+  Taxable Amount: $18879.29
+  Tax Amount: $3020.71
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-04
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-05
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-06
+  Invoice Count: 40
+  Taxable Amount: $16982.72
+  Tax Amount: $2717.28
+  Total Receipts: $19700.00
+  Total EOD Reports: $19700.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-07
+  Invoice Count: 47
+  Taxable Amount: $20258.59
+  Tax Amount: $3241.41
+  Total Receipts: $23500.00
+  Total EOD Reports: $23500.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-08
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-09
+  Invoice Count: 46
+  Taxable Amount: $20172.40
+  Tax Amount: $3227.60
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-10
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-11
+  Invoice Count: 70
+  Taxable Amount: $847985.95
+  Tax Amount: $135677.77
+  Total Receipts: $983663.72
+  Total EOD Reports: $983663.72
+  Difference: $0.00
+--------------------
+Date: 2024-01-12
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-13
+  Invoice Count: 36
+  Taxable Amount: $15258.61
+  Tax Amount: $2441.39
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-14
+  Invoice Count: 45
+  Taxable Amount: $19137.90
+  Tax Amount: $3062.10
+  Total Receipts: $22200.00
+  Total EOD Reports: $22200.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-15
+  Invoice Count: 47
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-16
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-17
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-18
+  Invoice Count: 40
+  Taxable Amount: $16896.53
+  Tax Amount: $2703.47
+  Total Receipts: $19600.00
+  Total EOD Reports: $19600.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-19
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-20
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-21
+  Invoice Count: 45
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-22
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-23
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-24
+  Invoice Count: 45
+  Taxable Amount: $19137.90
+  Tax Amount: $3062.10
+  Total Receipts: $22200.00
+  Total EOD Reports: $22200.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-25
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-26
+  Invoice Count: 43
+  Taxable Amount: $18275.84
+  Tax Amount: $2924.16
+  Total Receipts: $21200.00
+  Total EOD Reports: $21200.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-27
+  Invoice Count: 38
+  Taxable Amount: $15775.84
+  Tax Amount: $2524.16
+  Total Receipts: $18300.00
+  Total EOD Reports: $18300.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-28
+  Invoice Count: 45
+  Taxable Amount: $19655.14
+  Tax Amount: $3144.86
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-29
+  Invoice Count: 38
+  Taxable Amount: $15775.84
+  Tax Amount: $2524.16
+  Total Receipts: $18300.00
+  Total EOD Reports: $18300.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-30
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-01-31
+  Invoice Count: 47
+  Taxable Amount: $19827.57
+  Tax Amount: $3172.43
+  Total Receipts: $23000.00
+  Total EOD Reports: $23000.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-01
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-02
+  Invoice Count: 41
+  Taxable Amount: $17241.36
+  Tax Amount: $2758.64
+  Total Receipts: $20000.00
+  Total EOD Reports: $20000.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-03
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-04
+  Invoice Count: 42
+  Taxable Amount: $17327.55
+  Tax Amount: $2772.45
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-05
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-06
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-07
+  Invoice Count: 65
+  Taxable Amount: $709689.65
+  Tax Amount: $113550.35
+  Total Receipts: $823240.00
+  Total EOD Reports: $823240.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-08
+  Invoice Count: 38
+  Taxable Amount: $15948.27
+  Tax Amount: $2551.73
+  Total Receipts: $18500.00
+  Total EOD Reports: $18500.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-09
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-10
+  Invoice Count: 37
+  Taxable Amount: $15603.44
+  Tax Amount: $2496.56
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-11
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-12
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-13
+  Invoice Count: 43
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-14
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-15
+  Invoice Count: 45
+  Taxable Amount: $21879.29
+  Tax Amount: $3500.71
+  Total Receipts: $25380.00
+  Total EOD Reports: $25380.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-16
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-17
+  Invoice Count: 36
+  Taxable Amount: $15172.41
+  Tax Amount: $2427.59
+  Total Receipts: $17600.00
+  Total EOD Reports: $17600.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-18
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-19
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-20
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-21
+  Invoice Count: 46
+  Taxable Amount: $19568.93
+  Tax Amount: $3131.07
+  Total Receipts: $22700.00
+  Total EOD Reports: $22700.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-22
+  Invoice Count: 45
+  Taxable Amount: $19137.90
+  Tax Amount: $3062.10
+  Total Receipts: $22200.00
+  Total EOD Reports: $22200.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-23
+  Invoice Count: 42
+  Taxable Amount: $17844.80
+  Tax Amount: $2855.20
+  Total Receipts: $20700.00
+  Total EOD Reports: $20700.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-24
+  Invoice Count: 1
+  Taxable Amount: $344.83
+  Tax Amount: $55.17
+  Total Receipts: $400.00
+  Total EOD Reports: $400.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-25
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-26
+  Invoice Count: 81
+  Taxable Amount: $33965.47
+  Tax Amount: $5434.53
+  Total Receipts: $39400.00
+  Total EOD Reports: $39400.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-27
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-28
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2024-02-29
+  Invoice Count: 36
+  Taxable Amount: $15431.02
+  Tax Amount: $2468.98
+  Total Receipts: $17900.00
+  Total EOD Reports: $17900.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-01
+  Invoice Count: 39
+  Taxable Amount: $16293.09
+  Tax Amount: $2606.91
+  Total Receipts: $18900.00
+  Total EOD Reports: $18900.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-02
+  Invoice Count: 37
+  Taxable Amount: $15517.22
+  Tax Amount: $2482.78
+  Total Receipts: $18000.00
+  Total EOD Reports: $18000.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-03
+  Invoice Count: 47
+  Taxable Amount: $20258.59
+  Tax Amount: $3241.41
+  Total Receipts: $23500.00
+  Total EOD Reports: $23500.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-04
+  Invoice Count: 47
+  Taxable Amount: $20258.59
+  Tax Amount: $3241.41
+  Total Receipts: $23500.00
+  Total EOD Reports: $23500.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-05
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-06
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-07
+  Invoice Count: 49
+  Taxable Amount: $20948.25
+  Tax Amount: $3351.75
+  Total Receipts: $24300.00
+  Total EOD Reports: $24300.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-08
+  Invoice Count: 49
+  Taxable Amount: $20948.25
+  Tax Amount: $3351.75
+  Total Receipts: $24300.00
+  Total EOD Reports: $24300.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-09
+  Invoice Count: 34
+  Taxable Amount: $14137.92
+  Tax Amount: $2262.08
+  Total Receipts: $16400.00
+  Total EOD Reports: $16400.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-10
+  Invoice Count: 41
+  Taxable Amount: $17586.20
+  Tax Amount: $2813.80
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-11
+  Invoice Count: 69
+  Taxable Amount: $778724.12
+  Tax Amount: $124595.88
+  Total Receipts: $903320.00
+  Total EOD Reports: $903020.00
+  Difference: $300.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2024-03-12
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-13
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-14
+  Invoice Count: 47
+  Taxable Amount: $20086.18
+  Tax Amount: $3213.82
+  Total Receipts: $23300.00
+  Total EOD Reports: $23300.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-15
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-16
+  Invoice Count: 35
+  Taxable Amount: $14655.17
+  Tax Amount: $2344.83
+  Total Receipts: $17000.00
+  Total EOD Reports: $17000.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-17
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-18
+  Invoice Count: 43
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-19
+  Invoice Count: 41
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-20
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-21
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-22
+  Invoice Count: 41
+  Taxable Amount: $17241.36
+  Tax Amount: $2758.64
+  Total Receipts: $20000.00
+  Total EOD Reports: $20000.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-23
+  Invoice Count: 40
+  Taxable Amount: $16896.53
+  Tax Amount: $2703.47
+  Total Receipts: $19600.00
+  Total EOD Reports: $19600.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-24
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-25
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-26
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-27
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-28
+  Invoice Count: 35
+  Taxable Amount: $15258.62
+  Tax Amount: $2441.38
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-29
+  Invoice Count: 35
+  Taxable Amount: $14913.77
+  Tax Amount: $2386.23
+  Total Receipts: $17300.00
+  Total EOD Reports: $17300.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-30
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2024-03-31
+  Invoice Count: 36
+  Taxable Amount: $14913.77
+  Tax Amount: $2386.23
+  Total Receipts: $17300.00
+  Total EOD Reports: $17300.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-01
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-02
+  Invoice Count: 45
+  Taxable Amount: $2227142.02
+  Tax Amount: $356342.74
+  Total Receipts: $2583484.76
+  Total EOD Reports: $2583484.76
+  Difference: $0.00
+--------------------
+Date: 2024-04-03
+  Invoice Count: 43
+  Taxable Amount: $18189.64
+  Tax Amount: $2910.36
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-04
+  Invoice Count: 50
+  Taxable Amount: $21293.09
+  Tax Amount: $3406.91
+  Total Receipts: $24700.00
+  Total EOD Reports: $24700.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-05
+  Invoice Count: 37
+  Taxable Amount: $15689.64
+  Tax Amount: $2510.36
+  Total Receipts: $18200.00
+  Total EOD Reports: $18200.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-06
+  Invoice Count: 36
+  Taxable Amount: $15258.61
+  Tax Amount: $2441.39
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-07
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-08
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-09
+  Invoice Count: 72
+  Taxable Amount: $778672.39
+  Tax Amount: $124587.61
+  Total Receipts: $903260.00
+  Total EOD Reports: $865840.00
+  Difference: $37420.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2024-04-10
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-11
+  Invoice Count: 36
+  Taxable Amount: $14999.98
+  Tax Amount: $2400.02
+  Total Receipts: $17400.00
+  Total EOD Reports: $17400.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-12
+  Invoice Count: 36
+  Taxable Amount: $14999.98
+  Tax Amount: $2400.02
+  Total Receipts: $17400.00
+  Total EOD Reports: $17400.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-13
+  Invoice Count: 34
+  Taxable Amount: $14310.35
+  Tax Amount: $2289.65
+  Total Receipts: $16600.00
+  Total EOD Reports: $16600.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-14
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-15
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-16
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-17
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-18
+  Invoice Count: 41
+  Taxable Amount: $17586.20
+  Tax Amount: $2813.80
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-19
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-20
+  Invoice Count: 32
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-21
+  Invoice Count: 43
+  Taxable Amount: $18448.26
+  Tax Amount: $2951.74
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-22
+  Invoice Count: 44
+  Taxable Amount: $18706.87
+  Tax Amount: $2993.13
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-23
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-24
+  Invoice Count: 47
+  Taxable Amount: $19913.75
+  Tax Amount: $3186.25
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-25
+  Invoice Count: 42
+  Taxable Amount: $17327.56
+  Tax Amount: $2772.44
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-26
+  Invoice Count: 36
+  Taxable Amount: $14913.78
+  Tax Amount: $2386.22
+  Total Receipts: $17300.00
+  Total EOD Reports: $17300.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-27
+  Invoice Count: 33
+  Taxable Amount: $13793.09
+  Tax Amount: $2206.91
+  Total Receipts: $16000.00
+  Total EOD Reports: $16000.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-28
+  Invoice Count: 42
+  Taxable Amount: $17499.97
+  Tax Amount: $2800.03
+  Total Receipts: $20300.00
+  Total EOD Reports: $20300.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-29
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-04-30
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-01
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-02
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-03
+  Invoice Count: 38
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-04
+  Invoice Count: 34
+  Taxable Amount: $14051.71
+  Tax Amount: $2248.29
+  Total Receipts: $16300.00
+  Total EOD Reports: $16300.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-05
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-06
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-07
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-08
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-09
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-10
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-11
+  Invoice Count: 59
+  Taxable Amount: $710275.85
+  Tax Amount: $113644.15
+  Total Receipts: $823920.00
+  Total EOD Reports: $823920.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-12
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-13
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-14
+  Invoice Count: 47
+  Taxable Amount: $19741.35
+  Tax Amount: $3158.65
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-15
+  Invoice Count: 47
+  Taxable Amount: $19741.35
+  Tax Amount: $3158.65
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-16
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-17
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-18
+  Invoice Count: 35
+  Taxable Amount: $14396.54
+  Tax Amount: $2303.46
+  Total Receipts: $16700.00
+  Total EOD Reports: $16700.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-19
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-20
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-21
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-22
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-23
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-24
+  Invoice Count: 38
+  Taxable Amount: $16120.67
+  Tax Amount: $2579.33
+  Total Receipts: $18700.00
+  Total EOD Reports: $18700.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-25
+  Invoice Count: 35
+  Taxable Amount: $15344.82
+  Tax Amount: $2455.18
+  Total Receipts: $17800.00
+  Total EOD Reports: $17800.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-26
+  Invoice Count: 44
+  Taxable Amount: $18448.24
+  Tax Amount: $2951.76
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-27
+  Invoice Count: 45
+  Taxable Amount: $18448.25
+  Tax Amount: $2951.75
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-28
+  Invoice Count: 44
+  Taxable Amount: $18879.29
+  Tax Amount: $3020.71
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-29
+  Invoice Count: 44
+  Taxable Amount: $18879.29
+  Tax Amount: $3020.71
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-30
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-05-31
+  Invoice Count: 42
+  Taxable Amount: $17672.39
+  Tax Amount: $2827.61
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-01
+  Invoice Count: 38
+  Taxable Amount: $16206.88
+  Tax Amount: $2593.12
+  Total Receipts: $18800.00
+  Total EOD Reports: $18800.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-02
+  Invoice Count: 43
+  Taxable Amount: $18448.26
+  Tax Amount: $2951.74
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-03
+  Invoice Count: 71
+  Taxable Amount: $778982.74
+  Tax Amount: $124637.26
+  Total Receipts: $903620.00
+  Total EOD Reports: $903620.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-04
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-05
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-06
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-07
+  Invoice Count: 38
+  Taxable Amount: $16293.08
+  Tax Amount: $2606.92
+  Total Receipts: $18900.00
+  Total EOD Reports: $18900.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-08
+  Invoice Count: 33
+  Taxable Amount: $14137.92
+  Tax Amount: $2262.08
+  Total Receipts: $16400.00
+  Total EOD Reports: $16400.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-09
+  Invoice Count: 44
+  Taxable Amount: $18706.89
+  Tax Amount: $2993.11
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-10
+  Invoice Count: 44
+  Taxable Amount: $18706.89
+  Tax Amount: $2993.11
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-11
+  Invoice Count: 42
+  Taxable Amount: $17931.03
+  Tax Amount: $2868.97
+  Total Receipts: $20800.00
+  Total EOD Reports: $20800.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-12
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-13
+  Invoice Count: 44
+  Taxable Amount: $18879.30
+  Tax Amount: $3020.70
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-14
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-15
+  Invoice Count: 36
+  Taxable Amount: $15258.61
+  Tax Amount: $2441.39
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-16
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-17
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-18
+  Invoice Count: 43
+  Taxable Amount: $18793.10
+  Tax Amount: $3006.90
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-19
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-20
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-21
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-22
+  Invoice Count: 37
+  Taxable Amount: $15775.84
+  Tax Amount: $2524.16
+  Total Receipts: $18300.00
+  Total EOD Reports: $18300.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-23
+  Invoice Count: 42
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-24
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-25
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-26
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-27
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-28
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-29
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2024-06-30
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-01
+  Invoice Count: 68
+  Taxable Amount: $713896.54
+  Tax Amount: $114223.46
+  Total Receipts: $828120.00
+  Total EOD Reports: $828120.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-02
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-03
+  Invoice Count: 48
+  Taxable Amount: $2228866.14
+  Tax Amount: $356618.61
+  Total Receipts: $2585484.75
+  Total EOD Reports: $2585484.75
+  Difference: $0.00
+--------------------
+Date: 2024-07-04
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-05
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-06
+  Invoice Count: 34
+  Taxable Amount: $14224.12
+  Tax Amount: $2275.88
+  Total Receipts: $16500.00
+  Total EOD Reports: $16500.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-07
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-08
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-09
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-10
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-11
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-12
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-13
+  Invoice Count: 36
+  Taxable Amount: $15258.61
+  Tax Amount: $2441.39
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-14
+  Invoice Count: 44
+  Taxable Amount: $18793.08
+  Tax Amount: $3006.92
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-15
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-16
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-17
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-18
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-19
+  Invoice Count: 37
+  Taxable Amount: $15689.64
+  Tax Amount: $2510.36
+  Total Receipts: $18200.00
+  Total EOD Reports: $18200.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-20
+  Invoice Count: 37
+  Taxable Amount: $15603.44
+  Tax Amount: $2496.56
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-21
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-22
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-23
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-24
+  Invoice Count: 37
+  Taxable Amount: $15603.44
+  Tax Amount: $2496.56
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-25
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-26
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-27
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-28
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-29
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-30
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-07-31
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-01
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-02
+  Invoice Count: 77
+  Taxable Amount: $858155.15
+  Tax Amount: $137304.85
+  Total Receipts: $995460.00
+  Total EOD Reports: $911940.00
+  Difference: $83520.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2024-08-03
+  Invoice Count: 33
+  Taxable Amount: $13965.51
+  Tax Amount: $2234.49
+  Total Receipts: $16200.00
+  Total EOD Reports: $16200.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-04
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-05
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-06
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-07
+  Invoice Count: 44
+  Taxable Amount: $18620.67
+  Tax Amount: $2979.33
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-08
+  Invoice Count: 36
+  Taxable Amount: $15172.39
+  Tax Amount: $2427.61
+  Total Receipts: $17600.00
+  Total EOD Reports: $17600.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-09
+  Invoice Count: 39
+  Taxable Amount: $16379.29
+  Tax Amount: $2620.71
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-10
+  Invoice Count: 34
+  Taxable Amount: $14310.34
+  Tax Amount: $2289.66
+  Total Receipts: $16600.00
+  Total EOD Reports: $16600.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-11
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-12
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-13
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-14
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-15
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-16
+  Invoice Count: 58
+  Taxable Amount: $24913.72
+  Tax Amount: $3986.28
+  Total Receipts: $28900.00
+  Total EOD Reports: $28900.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-17
+  Invoice Count: 35
+  Taxable Amount: $14913.78
+  Tax Amount: $2386.22
+  Total Receipts: $17300.00
+  Total EOD Reports: $17300.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-18
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-19
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-20
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-21
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-22
+  Invoice Count: 58
+  Taxable Amount: $24655.08
+  Tax Amount: $3944.92
+  Total Receipts: $28600.00
+  Total EOD Reports: $28600.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-23
+  Invoice Count: 36
+  Taxable Amount: $14482.73
+  Tax Amount: $2317.27
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-24
+  Invoice Count: 68
+  Taxable Amount: $32241.29
+  Tax Amount: $5158.71
+  Total Receipts: $37400.00
+  Total EOD Reports: $37400.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-25
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-26
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-27
+  Invoice Count: 65
+  Taxable Amount: $26810.37
+  Tax Amount: $4289.63
+  Total Receipts: $31100.00
+  Total EOD Reports: $31100.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-28
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-29
+  Invoice Count: 62
+  Taxable Amount: $24831.91
+  Tax Amount: $3973.09
+  Total Receipts: $28805.00
+  Total EOD Reports: $28805.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-30
+  Invoice Count: 63
+  Taxable Amount: $25086.22
+  Tax Amount: $4013.78
+  Total Receipts: $29100.00
+  Total EOD Reports: $29100.00
+  Difference: $0.00
+--------------------
+Date: 2024-08-31
+  Invoice Count: 39
+  Taxable Amount: $16206.87
+  Tax Amount: $2593.13
+  Total Receipts: $18800.00
+  Total EOD Reports: $18800.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-01
+  Invoice Count: 79
+  Taxable Amount: $37499.94
+  Tax Amount: $6000.06
+  Total Receipts: $43500.00
+  Total EOD Reports: $43500.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-02
+  Invoice Count: 70
+  Taxable Amount: $778724.11
+  Tax Amount: $124595.89
+  Total Receipts: $903320.00
+  Total EOD Reports: $903320.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-03
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-04
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-05
+  Invoice Count: 44
+  Taxable Amount: $18706.87
+  Tax Amount: $2993.13
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-06
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-07
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-08
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-09
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-10
+  Invoice Count: 44
+  Taxable Amount: $18879.30
+  Tax Amount: $3020.70
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-11
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-12
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-13
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-14
+  Invoice Count: 36
+  Taxable Amount: $15258.61
+  Tax Amount: $2441.39
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-15
+  Invoice Count: 40
+  Taxable Amount: $17586.21
+  Tax Amount: $2813.79
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-16
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-17
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-18
+  Invoice Count: 43
+  Taxable Amount: $17931.01
+  Tax Amount: $2868.99
+  Total Receipts: $20800.00
+  Total EOD Reports: $20800.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-19
+  Invoice Count: 45
+  Taxable Amount: $19396.53
+  Tax Amount: $3103.47
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-20
+  Invoice Count: 37
+  Taxable Amount: $15344.81
+  Tax Amount: $2455.19
+  Total Receipts: $17800.00
+  Total EOD Reports: $17800.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-21
+  Invoice Count: 37
+  Taxable Amount: $15431.03
+  Tax Amount: $2468.97
+  Total Receipts: $17900.00
+  Total EOD Reports: $17900.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-22
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-23
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-24
+  Invoice Count: 45
+  Taxable Amount: $19137.90
+  Tax Amount: $3062.10
+  Total Receipts: $22200.00
+  Total EOD Reports: $22200.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-25
+  Invoice Count: 42
+  Taxable Amount: $17844.81
+  Tax Amount: $2855.19
+  Total Receipts: $20700.00
+  Total EOD Reports: $20700.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-26
+  Invoice Count: 42
+  Taxable Amount: $17844.81
+  Tax Amount: $2855.19
+  Total Receipts: $20700.00
+  Total EOD Reports: $20700.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-27
+  Invoice Count: 43
+  Taxable Amount: $18534.47
+  Tax Amount: $2965.53
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-28
+  Invoice Count: 34
+  Taxable Amount: $14310.34
+  Tax Amount: $2289.66
+  Total Receipts: $16600.00
+  Total EOD Reports: $16600.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-29
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2024-09-30
+  Invoice Count: 43
+  Taxable Amount: $18534.47
+  Tax Amount: $2965.53
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-01
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-02
+  Invoice Count: 45
+  Taxable Amount: $19310.33
+  Tax Amount: $3089.67
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-03
+  Invoice Count: 44
+  Taxable Amount: $2226710.98
+  Tax Amount: $356273.77
+  Total Receipts: $2582984.75
+  Total EOD Reports: $2582984.75
+  Difference: $0.00
+--------------------
+Date: 2024-10-04
+  Invoice Count: 59
+  Taxable Amount: $784310.34
+  Tax Amount: $125489.66
+  Total Receipts: $909800.00
+  Total EOD Reports: $869200.00
+  Difference: $40600.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2024-10-05
+  Invoice Count: 36
+  Taxable Amount: $16224.12
+  Tax Amount: $2595.88
+  Total Receipts: $18820.00
+  Total EOD Reports: $18820.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-06
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-07
+  Invoice Count: 44
+  Taxable Amount: $18017.20
+  Tax Amount: $2882.80
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-08
+  Invoice Count: 44
+  Taxable Amount: $18620.67
+  Tax Amount: $2979.33
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-09
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-10
+  Invoice Count: 39
+  Taxable Amount: $16551.71
+  Tax Amount: $2648.29
+  Total Receipts: $19200.00
+  Total EOD Reports: $19200.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-11
+  Invoice Count: 39
+  Taxable Amount: $16551.71
+  Tax Amount: $2648.29
+  Total Receipts: $19200.00
+  Total EOD Reports: $19200.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-12
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-13
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-14
+  Invoice Count: 45
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-15
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-16
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-17
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-18
+  Invoice Count: 40
+  Taxable Amount: $16120.64
+  Tax Amount: $2579.36
+  Total Receipts: $18700.00
+  Total EOD Reports: $18700.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-19
+  Invoice Count: 36
+  Taxable Amount: $14999.98
+  Tax Amount: $2400.02
+  Total Receipts: $17400.00
+  Total EOD Reports: $17400.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-20
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-21
+  Invoice Count: 43
+  Taxable Amount: $18620.66
+  Tax Amount: $2979.34
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-22
+  Invoice Count: 46
+  Taxable Amount: $19827.56
+  Tax Amount: $3172.44
+  Total Receipts: $23000.00
+  Total EOD Reports: $23000.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-23
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-24
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-25
+  Invoice Count: 38
+  Taxable Amount: $15862.06
+  Tax Amount: $2537.94
+  Total Receipts: $18400.00
+  Total EOD Reports: $18400.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-26
+  Invoice Count: 35
+  Taxable Amount: $14482.74
+  Tax Amount: $2317.26
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-27
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-28
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-29
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-30
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-10-31
+  Invoice Count: 43
+  Taxable Amount: $18534.47
+  Tax Amount: $2965.53
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-01
+  Invoice Count: 43
+  Taxable Amount: $18534.47
+  Tax Amount: $2965.53
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-02
+  Invoice Count: 36
+  Taxable Amount: $15172.41
+  Tax Amount: $2427.59
+  Total Receipts: $17600.00
+  Total EOD Reports: $17600.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-03
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-04
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-05
+  Invoice Count: 70
+  Taxable Amount: $714241.35
+  Tax Amount: $114278.65
+  Total Receipts: $828520.00
+  Total EOD Reports: $828520.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-06
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-07
+  Invoice Count: 46
+  Taxable Amount: $19396.52
+  Tax Amount: $3103.48
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-08
+  Invoice Count: 46
+  Taxable Amount: $19396.52
+  Tax Amount: $3103.48
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-09
+  Invoice Count: 36
+  Taxable Amount: $14913.78
+  Tax Amount: $2386.22
+  Total Receipts: $17300.00
+  Total EOD Reports: $17300.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-10
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-11
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-12
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-13
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-14
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-15
+  Invoice Count: 43
+  Taxable Amount: $18448.27
+  Tax Amount: $2951.73
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-16
+  Invoice Count: 36
+  Taxable Amount: $15517.23
+  Tax Amount: $2482.77
+  Total Receipts: $18000.00
+  Total EOD Reports: $18000.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-17
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-18
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-19
+  Invoice Count: 44
+  Taxable Amount: $18965.50
+  Tax Amount: $3034.50
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-20
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-21
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-22
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-23
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-24
+  Invoice Count: 43
+  Taxable Amount: $18017.24
+  Tax Amount: $2882.76
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-25
+  Invoice Count: 42
+  Taxable Amount: $18017.23
+  Tax Amount: $2882.77
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-26
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-27
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-28
+  Invoice Count: 44
+  Taxable Amount: $18448.26
+  Tax Amount: $2951.74
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-29
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2024-11-30
+  Invoice Count: 37
+  Taxable Amount: $15689.64
+  Tax Amount: $2510.36
+  Total Receipts: $18200.00
+  Total EOD Reports: $18200.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-01
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-02
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-03
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-04
+  Invoice Count: 76
+  Taxable Amount: $905499.98
+  Tax Amount: $144880.02
+  Total Receipts: $1050380.00
+  Total EOD Reports: $957580.00
+  Difference: $92800.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2024-12-05
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-06
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-07
+  Invoice Count: 37
+  Taxable Amount: $15603.43
+  Tax Amount: $2496.57
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-08
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-09
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-10
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-11
+  Invoice Count: 48
+  Taxable Amount: $20086.18
+  Tax Amount: $3213.82
+  Total Receipts: $23300.00
+  Total EOD Reports: $23300.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-12
+  Invoice Count: 46
+  Taxable Amount: $19396.52
+  Tax Amount: $3103.48
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-13
+  Invoice Count: 43
+  Taxable Amount: $18103.42
+  Tax Amount: $2896.58
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-14
+  Invoice Count: 42
+  Taxable Amount: $17672.39
+  Tax Amount: $2827.61
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-15
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-16
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-17
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-18
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-19
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-20
+  Invoice Count: 42
+  Taxable Amount: $17586.19
+  Tax Amount: $2813.81
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-21
+  Invoice Count: 37
+  Taxable Amount: $15517.23
+  Tax Amount: $2482.77
+  Total Receipts: $18000.00
+  Total EOD Reports: $18000.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-22
+  Invoice Count: 41
+  Taxable Amount: $17241.36
+  Tax Amount: $2758.64
+  Total Receipts: $20000.00
+  Total EOD Reports: $20000.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-23
+  Invoice Count: 41
+  Taxable Amount: $17241.36
+  Tax Amount: $2758.64
+  Total Receipts: $20000.00
+  Total EOD Reports: $20000.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-24
+  Invoice Count: 37
+  Taxable Amount: $2223090.30
+  Tax Amount: $355694.46
+  Total Receipts: $2578784.76
+  Total EOD Reports: $2578784.76
+  Difference: $0.00
+--------------------
+Date: 2024-12-25
+  Invoice Count: 27
+  Taxable Amount: $11034.47
+  Tax Amount: $1765.53
+  Total Receipts: $12800.00
+  Total EOD Reports: $12800.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-26
+  Invoice Count: 29
+  Taxable Amount: $12155.16
+  Tax Amount: $1944.84
+  Total Receipts: $14100.00
+  Total EOD Reports: $14100.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-27
+  Invoice Count: 32
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-28
+  Invoice Count: 34
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-29
+  Invoice Count: 35
+  Taxable Amount: $14741.37
+  Tax Amount: $2358.63
+  Total Receipts: $17100.00
+  Total EOD Reports: $17100.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-30
+  Invoice Count: 32
+  Taxable Amount: $12931.03
+  Tax Amount: $2068.97
+  Total Receipts: $15000.00
+  Total EOD Reports: $15000.00
+  Difference: $0.00
+--------------------
+Date: 2024-12-31
+  Invoice Count: 33
+  Taxable Amount: $13706.89
+  Tax Amount: $2193.11
+  Total Receipts: $15900.00
+  Total EOD Reports: $15900.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-01
+  Invoice Count: 32
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-02
+  Invoice Count: 59
+  Taxable Amount: $705431.03
+  Tax Amount: $112868.97
+  Total Receipts: $818300.00
+  Total EOD Reports: $818300.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-03
+  Invoice Count: 44
+  Taxable Amount: $18706.89
+  Tax Amount: $2993.11
+  Total Receipts: $21700.00
+  Total EOD Reports: $21300.00
+  Difference: $400.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2025-01-04
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-05
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-06
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-07
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-08
+  Invoice Count: 47
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-09
+  Invoice Count: 48
+  Taxable Amount: $20517.22
+  Tax Amount: $3282.78
+  Total Receipts: $23800.00
+  Total EOD Reports: $23800.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-10
+  Invoice Count: 41
+  Taxable Amount: $17327.56
+  Tax Amount: $2772.44
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-11
+  Invoice Count: 39
+  Taxable Amount: $16379.29
+  Tax Amount: $2620.71
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-12
+  Invoice Count: 44
+  Taxable Amount: $18706.88
+  Tax Amount: $2993.12
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-13
+  Invoice Count: 44
+  Taxable Amount: $18706.88
+  Tax Amount: $2993.12
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-14
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-15
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-16
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-17
+  Invoice Count: 43
+  Taxable Amount: $18103.42
+  Tax Amount: $2896.58
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-18
+  Invoice Count: 23
+  Taxable Amount: $8879.35
+  Tax Amount: $1420.65
+  Total Receipts: $10300.00
+  Total EOD Reports: $10300.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-19
+  Invoice Count: 60
+  Taxable Amount: $26206.83
+  Tax Amount: $4193.17
+  Total Receipts: $30400.00
+  Total EOD Reports: $30400.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-20
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-21
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-22
+  Invoice Count: 46
+  Taxable Amount: $19827.56
+  Tax Amount: $3172.44
+  Total Receipts: $23000.00
+  Total EOD Reports: $23000.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-23
+  Invoice Count: 45
+  Taxable Amount: $19310.32
+  Tax Amount: $3089.68
+  Total Receipts: $22400.00
+  Total EOD Reports: $22400.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-24
+  Invoice Count: 40
+  Taxable Amount: $16896.53
+  Tax Amount: $2703.47
+  Total Receipts: $19600.00
+  Total EOD Reports: $19600.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-25
+  Invoice Count: 38
+  Taxable Amount: $15948.26
+  Tax Amount: $2551.74
+  Total Receipts: $18500.00
+  Total EOD Reports: $18500.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-26
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-27
+  Invoice Count: 45
+  Taxable Amount: $19224.12
+  Tax Amount: $3075.88
+  Total Receipts: $22300.00
+  Total EOD Reports: $22300.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-28
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-29
+  Invoice Count: 46
+  Taxable Amount: $19482.73
+  Tax Amount: $3117.27
+  Total Receipts: $22600.00
+  Total EOD Reports: $22600.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-30
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2025-01-31
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-01
+  Invoice Count: 38
+  Taxable Amount: $15948.27
+  Tax Amount: $2551.73
+  Total Receipts: $18500.00
+  Total EOD Reports: $18500.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-02
+  Invoice Count: 44
+  Taxable Amount: $18879.30
+  Tax Amount: $3020.70
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-03
+  Invoice Count: 44
+  Taxable Amount: $18879.30
+  Tax Amount: $3020.70
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-04
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-05
+  Invoice Count: 71
+  Taxable Amount: $715275.84
+  Tax Amount: $114444.16
+  Total Receipts: $829720.00
+  Total EOD Reports: $829720.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-06
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-07
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-08
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-09
+  Invoice Count: 43
+  Taxable Amount: $18448.26
+  Tax Amount: $2951.74
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-10
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-11
+  Invoice Count: 46
+  Taxable Amount: $19741.36
+  Tax Amount: $3158.64
+  Total Receipts: $22900.00
+  Total EOD Reports: $22900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-12
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-13
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-14
+  Invoice Count: 40
+  Taxable Amount: $16551.70
+  Tax Amount: $2648.30
+  Total Receipts: $19200.00
+  Total EOD Reports: $19200.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-15
+  Invoice Count: 38
+  Taxable Amount: $16120.69
+  Tax Amount: $2579.31
+  Total Receipts: $18700.00
+  Total EOD Reports: $18700.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-16
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-17
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-18
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-19
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-20
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-21
+  Invoice Count: 38
+  Taxable Amount: $16120.67
+  Tax Amount: $2579.33
+  Total Receipts: $18700.00
+  Total EOD Reports: $18700.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-22
+  Invoice Count: 37
+  Taxable Amount: $15344.80
+  Tax Amount: $2455.20
+  Total Receipts: $17800.00
+  Total EOD Reports: $17800.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-23
+  Invoice Count: 44
+  Taxable Amount: $18448.25
+  Tax Amount: $2951.75
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-24
+  Invoice Count: 44
+  Taxable Amount: $18448.25
+  Tax Amount: $2951.75
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-25
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-26
+  Invoice Count: 47
+  Taxable Amount: $19913.76
+  Tax Amount: $3186.24
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-27
+  Invoice Count: 45
+  Taxable Amount: $19913.77
+  Tax Amount: $3186.23
+  Total Receipts: $23100.00
+  Total EOD Reports: $23100.00
+  Difference: $0.00
+--------------------
+Date: 2025-02-28
+  Invoice Count: 34
+  Taxable Amount: $14051.71
+  Tax Amount: $2248.29
+  Total Receipts: $16300.00
+  Total EOD Reports: $16300.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-01
+  Invoice Count: 32
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-02
+  Invoice Count: 45
+  Taxable Amount: $18706.86
+  Tax Amount: $2993.14
+  Total Receipts: $21700.00
+  Total EOD Reports: $21700.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-03
+  Invoice Count: 69
+  Taxable Amount: $753465.48
+  Tax Amount: $120554.52
+  Total Receipts: $874020.00
+  Total EOD Reports: $874020.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-04
+  Invoice Count: 46
+  Taxable Amount: $20172.40
+  Tax Amount: $3227.60
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-05
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-06
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-07
+  Invoice Count: 40
+  Taxable Amount: $16896.54
+  Tax Amount: $2703.46
+  Total Receipts: $19600.00
+  Total EOD Reports: $19600.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-08
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-09
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-10
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-11
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-12
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-13
+  Invoice Count: 48
+  Taxable Amount: $20603.42
+  Tax Amount: $3296.58
+  Total Receipts: $23900.00
+  Total EOD Reports: $23900.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-14
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-15
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-16
+  Invoice Count: 79
+  Taxable Amount: $32931.01
+  Tax Amount: $5268.99
+  Total Receipts: $38200.00
+  Total EOD Reports: $38200.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-17
+  Invoice Count: 42
+  Taxable Amount: $17672.40
+  Tax Amount: $2827.60
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-18
+  Invoice Count: 42
+  Taxable Amount: $17672.40
+  Tax Amount: $2827.60
+  Total Receipts: $20500.00
+  Total EOD Reports: $20500.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-19
+  Invoice Count: 45
+  Taxable Amount: $18879.29
+  Tax Amount: $3020.71
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-20
+  Invoice Count: 45
+  Taxable Amount: $19051.70
+  Tax Amount: $3048.30
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-21
+  Invoice Count: 36
+  Taxable Amount: $14999.98
+  Tax Amount: $2400.02
+  Total Receipts: $17400.00
+  Total EOD Reports: $17400.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-22
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-23
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-24
+  Invoice Count: 41
+  Taxable Amount: $17241.36
+  Tax Amount: $2758.64
+  Total Receipts: $20000.00
+  Total EOD Reports: $20000.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-25
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-26
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-27
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-28
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-29
+  Invoice Count: 36
+  Taxable Amount: $2222831.67
+  Tax Amount: $355653.09
+  Total Receipts: $2578484.76
+  Total EOD Reports: $2578484.76
+  Difference: $0.00
+--------------------
+Date: 2025-03-30
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-03-31
+  Invoice Count: 41
+  Taxable Amount: $17413.78
+  Tax Amount: $2786.22
+  Total Receipts: $20200.00
+  Total EOD Reports: $20200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-01
+  Invoice Count: 41
+  Taxable Amount: $17413.78
+  Tax Amount: $2786.22
+  Total Receipts: $20200.00
+  Total EOD Reports: $20200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-02
+  Invoice Count: 44
+  Taxable Amount: $18620.67
+  Tax Amount: $2979.33
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-03
+  Invoice Count: 73
+  Taxable Amount: $753724.12
+  Tax Amount: $120595.88
+  Total Receipts: $874320.00
+  Total EOD Reports: $851120.00
+  Difference: $23200.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2025-04-04
+  Invoice Count: 31
+  Taxable Amount: $12758.61
+  Tax Amount: $2041.39
+  Total Receipts: $14800.00
+  Total EOD Reports: $14800.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-05
+  Invoice Count: 31
+  Taxable Amount: $12758.61
+  Tax Amount: $2041.39
+  Total Receipts: $14800.00
+  Total EOD Reports: $14800.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-06
+  Invoice Count: 38
+  Taxable Amount: $16293.08
+  Tax Amount: $2606.92
+  Total Receipts: $18900.00
+  Total EOD Reports: $18900.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-07
+  Invoice Count: 38
+  Taxable Amount: $16293.08
+  Tax Amount: $2606.92
+  Total Receipts: $18900.00
+  Total EOD Reports: $18900.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-08
+  Invoice Count: 43
+  Taxable Amount: $18448.26
+  Tax Amount: $2951.74
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-09
+  Invoice Count: 43
+  Taxable Amount: $18448.26
+  Tax Amount: $2951.74
+  Total Receipts: $21400.00
+  Total EOD Reports: $21400.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-10
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-11
+  Invoice Count: 35
+  Taxable Amount: $14482.75
+  Tax Amount: $2317.25
+  Total Receipts: $16800.00
+  Total EOD Reports: $16800.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-12
+  Invoice Count: 32
+  Taxable Amount: $13017.24
+  Tax Amount: $2082.76
+  Total Receipts: $15100.00
+  Total EOD Reports: $15100.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-13
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-14
+  Invoice Count: 44
+  Taxable Amount: $18620.66
+  Tax Amount: $2979.34
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-15
+  Invoice Count: 44
+  Taxable Amount: $18620.66
+  Tax Amount: $2979.34
+  Total Receipts: $21600.00
+  Total EOD Reports: $21600.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-16
+  Invoice Count: 43
+  Taxable Amount: $18103.42
+  Tax Amount: $2896.58
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-17
+  Invoice Count: 43
+  Taxable Amount: $18103.42
+  Tax Amount: $2896.58
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-18
+  Invoice Count: 33
+  Taxable Amount: $13965.51
+  Tax Amount: $2234.49
+  Total Receipts: $16200.00
+  Total EOD Reports: $16200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-19
+  Invoice Count: 33
+  Taxable Amount: $13965.51
+  Tax Amount: $2234.49
+  Total Receipts: $16200.00
+  Total EOD Reports: $16200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-20
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-21
+  Invoice Count: 39
+  Taxable Amount: $16206.87
+  Tax Amount: $2593.13
+  Total Receipts: $18800.00
+  Total EOD Reports: $18800.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-22
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-23
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-24
+  Invoice Count: 43
+  Taxable Amount: $18017.22
+  Tax Amount: $2882.78
+  Total Receipts: $20900.00
+  Total EOD Reports: $20900.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-25
+  Invoice Count: 33
+  Taxable Amount: $13965.51
+  Tax Amount: $2234.49
+  Total Receipts: $16200.00
+  Total EOD Reports: $16200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-26
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-27
+  Invoice Count: 43
+  Taxable Amount: $18275.85
+  Tax Amount: $2924.15
+  Total Receipts: $21200.00
+  Total EOD Reports: $21200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-28
+  Invoice Count: 45
+  Taxable Amount: $19137.92
+  Tax Amount: $3062.08
+  Total Receipts: $22200.00
+  Total EOD Reports: $22200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-29
+  Invoice Count: 45
+  Taxable Amount: $19137.92
+  Tax Amount: $3062.08
+  Total Receipts: $22200.00
+  Total EOD Reports: $22200.00
+  Difference: $0.00
+--------------------
+Date: 2025-04-30
+  Invoice Count: 33
+  Taxable Amount: $13965.51
+  Tax Amount: $2234.49
+  Total Receipts: $16200.00
+  Total EOD Reports: $16200.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-01
+  Invoice Count: 35
+  Taxable Amount: $14741.37
+  Tax Amount: $2358.63
+  Total Receipts: $17100.00
+  Total EOD Reports: $17100.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-02
+  Invoice Count: 37
+  Taxable Amount: $15603.44
+  Tax Amount: $2496.56
+  Total Receipts: $18100.00
+  Total EOD Reports: $18100.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-03
+  Invoice Count: 33
+  Taxable Amount: $13793.09
+  Tax Amount: $2206.91
+  Total Receipts: $16000.00
+  Total EOD Reports: $16000.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-04
+  Invoice Count: 41
+  Taxable Amount: $17586.20
+  Tax Amount: $2813.80
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-05
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-06
+  Invoice Count: 44
+  Taxable Amount: $18793.09
+  Tax Amount: $3006.91
+  Total Receipts: $21800.00
+  Total EOD Reports: $21800.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-07
+  Invoice Count: 70
+  Taxable Amount: $780775.85
+  Tax Amount: $124924.15
+  Total Receipts: $905700.00
+  Total EOD Reports: $859260.00
+  Difference: $46440.00
+  DISCREPANCY FOUND!
+--------------------
+Date: 2025-05-08
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-09
+  Invoice Count: 37
+  Taxable Amount: $14999.98
+  Tax Amount: $2400.02
+  Total Receipts: $17400.00
+  Total EOD Reports: $17400.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-10
+  Invoice Count: 33
+  Taxable Amount: $13706.88
+  Tax Amount: $2193.12
+  Total Receipts: $15900.00
+  Total EOD Reports: $15900.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-11
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-12
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-13
+  Invoice Count: 41
+  Taxable Amount: $17586.17
+  Tax Amount: $2813.83
+  Total Receipts: $20400.00
+  Total EOD Reports: $20400.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-14
+  Invoice Count: 44
+  Taxable Amount: $18879.29
+  Tax Amount: $3020.71
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-15
+  Invoice Count: 44
+  Taxable Amount: $18879.29
+  Tax Amount: $3020.71
+  Total Receipts: $21900.00
+  Total EOD Reports: $21900.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-16
+  Invoice Count: 38
+  Taxable Amount: $15948.26
+  Tax Amount: $2551.74
+  Total Receipts: $18500.00
+  Total EOD Reports: $18500.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-17
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-18
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-19
+  Invoice Count: 42
+  Taxable Amount: $17758.60
+  Tax Amount: $2841.40
+  Total Receipts: $20600.00
+  Total EOD Reports: $20600.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-20
+  Invoice Count: 46
+  Taxable Amount: $19655.15
+  Tax Amount: $3144.85
+  Total Receipts: $22800.00
+  Total EOD Reports: $22800.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-21
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-22
+  Invoice Count: 38
+  Taxable Amount: $15862.06
+  Tax Amount: $2537.94
+  Total Receipts: $18400.00
+  Total EOD Reports: $18400.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-23
+  Invoice Count: 38
+  Taxable Amount: $15862.06
+  Tax Amount: $2537.94
+  Total Receipts: $18400.00
+  Total EOD Reports: $18400.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-24
+  Invoice Count: 32
+  Taxable Amount: $13017.22
+  Tax Amount: $2082.78
+  Total Receipts: $15100.00
+  Total EOD Reports: $15100.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-25
+  Invoice Count: 37
+  Taxable Amount: $15258.60
+  Tax Amount: $2441.40
+  Total Receipts: $17700.00
+  Total EOD Reports: $17700.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-26
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-27
+  Invoice Count: 44
+  Taxable Amount: $18534.46
+  Tax Amount: $2965.54
+  Total Receipts: $21500.00
+  Total EOD Reports: $21500.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-28
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-29
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-30
+  Invoice Count: 35
+  Taxable Amount: $14396.54
+  Tax Amount: $2303.46
+  Total Receipts: $16700.00
+  Total EOD Reports: $16700.00
+  Difference: $0.00
+--------------------
+Date: 2025-05-31
+  Invoice Count: 31
+  Taxable Amount: $12758.61
+  Tax Amount: $2041.39
+  Total Receipts: $14800.00
+  Total EOD Reports: $14800.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-01
+  Invoice Count: 38
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-02
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-03
+  Invoice Count: 46
+  Taxable Amount: $19396.52
+  Tax Amount: $3103.48
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-04
+  Invoice Count: 47
+  Taxable Amount: $20172.39
+  Tax Amount: $3227.61
+  Total Receipts: $23400.00
+  Total EOD Reports: $23400.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-05
+  Invoice Count: 39
+  Taxable Amount: $16465.50
+  Tax Amount: $2634.50
+  Total Receipts: $19100.00
+  Total EOD Reports: $19100.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-06
+  Invoice Count: 38
+  Taxable Amount: $15689.64
+  Tax Amount: $2510.36
+  Total Receipts: $18200.00
+  Total EOD Reports: $18200.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-07
+  Invoice Count: 33
+  Taxable Amount: $13448.27
+  Tax Amount: $2151.73
+  Total Receipts: $15600.00
+  Total EOD Reports: $15600.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-08
+  Invoice Count: 45
+  Taxable Amount: $18965.49
+  Tax Amount: $3034.51
+  Total Receipts: $22000.00
+  Total EOD Reports: $22000.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-09
+  Invoice Count: 73
+  Taxable Amount: $837310.32
+  Tax Amount: $133969.68
+  Total Receipts: $971280.00
+  Total EOD Reports: $971280.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-10
+  Invoice Count: 46
+  Taxable Amount: $19051.69
+  Tax Amount: $3048.31
+  Total Receipts: $22100.00
+  Total EOD Reports: $22100.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-11
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-12
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-13
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-14
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-15
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-16
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-17
+  Invoice Count: 286
+  Taxable Amount: $120172.21
+  Tax Amount: $19227.79
+  Total Receipts: $139400.00
+  Total EOD Reports: $139400.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-18
+  Invoice Count: 43
+  Taxable Amount: $18362.06
+  Tax Amount: $2937.94
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-19
+  Invoice Count: 30
+  Taxable Amount: $12586.19
+  Tax Amount: $2013.81
+  Total Receipts: $14600.00
+  Total EOD Reports: $14600.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-20
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-21
+  Invoice Count: 71
+  Taxable Amount: $29655.11
+  Tax Amount: $4744.89
+  Total Receipts: $34400.00
+  Total EOD Reports: $34400.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-22
+  Invoice Count: 40
+  Taxable Amount: $16810.33
+  Tax Amount: $2689.67
+  Total Receipts: $19500.00
+  Total EOD Reports: $19500.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-23
+  Invoice Count: 42
+  Taxable Amount: $17327.56
+  Tax Amount: $2772.44
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-24
+  Invoice Count: 42
+  Taxable Amount: $17327.56
+  Tax Amount: $2772.44
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-25
+  Invoice Count: 42
+  Taxable Amount: $17327.56
+  Tax Amount: $2772.44
+  Total Receipts: $20100.00
+  Total EOD Reports: $20100.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-26
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-27
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-28
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-29
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-06-30
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-01
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-02
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-03
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-04
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-05
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-06
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-07
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-08
+  Invoice Count: 280
+  Taxable Amount: $2326711.70
+  Tax Amount: $372274.06
+  Total Receipts: $2698985.76
+  Total EOD Reports: $2698985.76
+  Difference: $0.00
+--------------------
+Date: 2025-07-09
+  Invoice Count: 270
+  Taxable Amount: $115172.26
+  Tax Amount: $18427.74
+  Total Receipts: $133600.00
+  Total EOD Reports: $133600.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-10
+  Invoice Count: 40
+  Taxable Amount: $17241.37
+  Tax Amount: $2758.63
+  Total Receipts: $20000.00
+  Total EOD Reports: $20000.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-11
+  Invoice Count: 36
+  Taxable Amount: $14999.99
+  Tax Amount: $2400.01
+  Total Receipts: $17400.00
+  Total EOD Reports: $17400.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-12
+  Invoice Count: 60
+  Taxable Amount: $835448.26
+  Tax Amount: $133671.74
+  Total Receipts: $969120.00
+  Total EOD Reports: $969120.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-13
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-14
+  Invoice Count: 39
+  Taxable Amount: $16379.30
+  Tax Amount: $2620.70
+  Total Receipts: $19000.00
+  Total EOD Reports: $19000.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-15
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-16
+  Invoice Count: 43
+  Taxable Amount: $18189.63
+  Tax Amount: $2910.37
+  Total Receipts: $21100.00
+  Total EOD Reports: $21100.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-17
+  Invoice Count: 47
+  Taxable Amount: $20086.18
+  Tax Amount: $3213.82
+  Total Receipts: $23300.00
+  Total EOD Reports: $23300.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-18
+  Invoice Count: 38
+  Taxable Amount: $16034.47
+  Tax Amount: $2565.53
+  Total Receipts: $18600.00
+  Total EOD Reports: $18600.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-19
+  Invoice Count: 33
+  Taxable Amount: $13620.68
+  Tax Amount: $2179.32
+  Total Receipts: $15800.00
+  Total EOD Reports: $15800.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-20
+  Invoice Count: 44
+  Taxable Amount: $18362.05
+  Tax Amount: $2937.95
+  Total Receipts: $21300.00
+  Total EOD Reports: $21300.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-21
+  Invoice Count: 42
+  Taxable Amount: $17413.76
+  Tax Amount: $2786.24
+  Total Receipts: $20200.00
+  Total EOD Reports: $20200.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-22
+  Invoice Count: 46
+  Taxable Amount: $19396.52
+  Tax Amount: $3103.48
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-23
+  Invoice Count: 46
+  Taxable Amount: $19396.52
+  Tax Amount: $3103.48
+  Total Receipts: $22500.00
+  Total EOD Reports: $22500.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-24
+  Invoice Count: 36
+  Taxable Amount: $15172.41
+  Tax Amount: $2427.59
+  Total Receipts: $17600.00
+  Total EOD Reports: $17600.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-25
+  Invoice Count: 37
+  Taxable Amount: $15172.41
+  Tax Amount: $2427.59
+  Total Receipts: $17600.00
+  Total EOD Reports: $17600.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-26
+  Invoice Count: 32
+  Taxable Amount: $13275.85
+  Tax Amount: $2124.15
+  Total Receipts: $15400.00
+  Total EOD Reports: $15400.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-27
+  Invoice Count: 43
+  Taxable Amount: $18103.43
+  Tax Amount: $2896.57
+  Total Receipts: $21000.00
+  Total EOD Reports: $21000.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-28
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
+Date: 2025-07-29
+  Invoice Count: 0
+  Taxable Amount: $0.00
+  Tax Amount: $0.00
+  Total Receipts: $0.00
+  Total EOD Reports: $0.00
+  Difference: $0.00
+--------------------
