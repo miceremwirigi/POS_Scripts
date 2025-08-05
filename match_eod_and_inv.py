@@ -112,17 +112,19 @@ def compare_and_report(receipts_by_date, eod_reports_by_date):
         taxable_amount = sum(float(receipt.get("TotalTaxableAmount", 0)) for receipt in receipts)
         tax_amount = sum(float(receipt.get("TotalTaxAmount", 0)) for receipt in receipts)
 
-        report_lines.append(f"  Invoice Count: {invoice_count}\n")
-        report_lines.append(f"  Taxable Amount: ${taxable_amount:.2f}\n")
-        report_lines.append(f"  Tax Amount: ${tax_amount:.2f}\n")
-        report_lines.append(f"  Total Receipts: ${total_receipts:.2f}\n")
-        report_lines.append(f"  Total EOD Reports: ${total_eod:.2f}\n")
-
         difference = total_receipts - total_eod
         report_lines.append(f"  Difference: ${difference:.2f}\n")
 
         if abs(difference) > 0.01:  # Threshold for discrepancy
             report_lines.append("  DISCREPANCY FOUND!\n")
+        else:
+            continue
+
+        report_lines.append(f"  Invoice Count: {invoice_count}\n")
+        report_lines.append(f"  Taxable Amount: ${taxable_amount:.2f}\n")
+        report_lines.append(f"  Tax Amount: ${tax_amount:.2f}\n")
+        report_lines.append(f"  Total Receipts: ${total_receipts:.2f}\n")
+        report_lines.append(f"  Total EOD Reports: ${total_eod:.2f}\n")
 
         report_lines.append("-" * 20 + "\n")
 
