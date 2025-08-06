@@ -210,4 +210,6 @@ __marimo__/
 # Output files
 .txt
 .csv
+.pdf
+.xlsx
 sales_reconciliation_report.txt
