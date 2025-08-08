@@ -1,27 +1,639 @@
 Sales Reconciliation Report
 ------------------------------
+Date: 2022-09-30
+  Difference: $0.00
+Date: 2022-10-01
+  Difference: $0.00
+Date: 2022-10-02
+  Difference: $0.00
+Date: 2022-10-03
+  Difference: $0.00
+Date: 2022-10-04
+  Difference: $0.00
+Date: 2022-10-05
+  Difference: $0.00
+Date: 2022-10-06
+  Difference: $0.00
+Date: 2022-10-07
+  Difference: $0.00
+Date: 2022-10-08
+  Difference: $0.00
+Date: 2022-10-09
+  Difference: $0.00
+Date: 2022-10-10
+  Difference: $0.00
+Date: 2022-10-11
+  Difference: $0.00
+Date: 2022-10-12
+  Difference: $0.00
+Date: 2022-10-13
+  Difference: $0.00
+Date: 2022-10-14
+  Difference: $0.00
+Date: 2022-10-15
+  Difference: $0.00
+Date: 2022-10-16
+  Difference: $0.00
+Date: 2022-10-17
+  Difference: $0.00
+Date: 2022-10-18
+  Difference: $0.00
+Date: 2022-10-19
+  Difference: $0.00
+Date: 2022-10-20
+  Difference: $0.00
+Date: 2022-10-21
+  Difference: $-0.01
+  DISCREPANCY FOUND!
+  Invoice Count: 9
+  Taxable Amount: $0.16
+  Tax Amount: $0.00
+  Total Receipts: $0.16
+  Total EOD Reports: $0.17
+--------------------
+Date: 2022-10-22
+  Difference: $0.00
+Date: 2022-10-23
+  Difference: $0.00
+Date: 2022-10-24
+  Difference: $0.00
+Date: 2022-10-25
+  Difference: $0.00
+Date: 2022-10-26
+  Difference: $0.00
+Date: 2022-10-27
+  Difference: $0.00
+Date: 2022-10-28
+  Difference: $0.00
+Date: 2022-10-29
+  Difference: $0.00
+Date: 2022-10-30
+  Difference: $0.00
+Date: 2022-10-31
+  Difference: $0.00
+Date: 2022-11-01
+  Difference: $0.00
+Date: 2022-11-02
+  Difference: $0.00
+Date: 2022-11-03
+  Difference: $0.00
+Date: 2022-11-04
+  Difference: $0.00
+Date: 2022-11-05
+  Difference: $0.00
+Date: 2022-11-06
+  Difference: $0.00
+Date: 2022-11-07
+  Difference: $0.00
+Date: 2022-11-08
+  Difference: $0.00
+Date: 2022-11-09
+  Difference: $0.00
+Date: 2022-11-10
+  Difference: $0.00
+Date: 2022-11-11
+  Difference: $0.00
+Date: 2022-11-12
+  Difference: $0.00
+Date: 2022-11-13
+  Difference: $0.00
+Date: 2022-11-14
+  Difference: $0.00
+Date: 2022-11-15
+  Difference: $0.00
+Date: 2022-11-16
+  Difference: $0.00
+Date: 2022-11-17
+  Difference: $0.00
+Date: 2022-11-18
+  Difference: $0.00
+Date: 2022-11-19
+  Difference: $0.00
+Date: 2022-11-20
+  Difference: $0.00
+Date: 2022-11-21
+  Difference: $0.00
+Date: 2022-11-22
+  Difference: $0.00
+Date: 2022-11-23
+  Difference: $0.00
+Date: 2022-11-24
+  Difference: $0.00
+Date: 2022-11-25
+  Difference: $0.00
+Date: 2022-11-26
+  Difference: $0.00
+Date: 2022-11-27
+  Difference: $0.00
+Date: 2022-11-28
+  Difference: $0.00
+Date: 2022-11-29
+  Difference: $0.00
+Date: 2022-11-30
+  Difference: $0.00
+Date: 2022-12-01
+  Difference: $0.00
+Date: 2022-12-02
+  Difference: $0.00
+Date: 2022-12-03
+  Difference: $0.00
+Date: 2022-12-04
+  Difference: $0.00
+Date: 2022-12-05
+  Difference: $0.00
+Date: 2022-12-06
+  Difference: $0.00
+Date: 2022-12-07
+  Difference: $0.00
+Date: 2022-12-08
+  Difference: $0.00
+Date: 2022-12-09
+  Difference: $0.00
+Date: 2022-12-10
+  Difference: $0.00
+Date: 2022-12-11
+  Difference: $0.00
+Date: 2022-12-12
+  Difference: $0.00
+Date: 2022-12-13
+  Difference: $0.00
+Date: 2022-12-14
+  Difference: $0.00
+Date: 2022-12-15
+  Difference: $0.00
+Date: 2022-12-16
+  Difference: $0.00
+Date: 2022-12-17
+  Difference: $0.00
+Date: 2022-12-18
+  Difference: $0.00
+Date: 2022-12-19
+  Difference: $0.00
+Date: 2022-12-20
+  Difference: $0.00
+Date: 2022-12-21
+  Difference: $0.00
+Date: 2022-12-22
+  Difference: $0.00
+Date: 2022-12-23
+  Difference: $0.00
+Date: 2022-12-24
+  Difference: $0.00
+Date: 2022-12-25
+  Difference: $0.00
+Date: 2022-12-26
+  Difference: $0.00
+Date: 2022-12-27
+  Difference: $0.00
+Date: 2022-12-28
+  Difference: $0.00
+Date: 2022-12-29
+  Difference: $0.00
+Date: 2022-12-30
+  Difference: $0.00
+Date: 2022-12-31
+  Difference: $0.00
+Date: 2023-01-01
+  Difference: $0.00
+Date: 2023-01-02
+  Difference: $0.00
+Date: 2023-01-03
+  Difference: $0.00
+Date: 2023-01-04
+  Difference: $0.00
+Date: 2023-01-05
+  Difference: $0.00
+Date: 2023-01-06
+  Difference: $0.00
+Date: 2023-01-07
+  Difference: $0.00
+Date: 2023-01-08
+  Difference: $0.00
+Date: 2023-01-09
+  Difference: $0.00
+Date: 2023-01-10
+  Difference: $0.00
+Date: 2023-01-11
+  Difference: $0.00
+Date: 2023-01-12
+  Difference: $-119361285197758912.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $14413.80
+  Tax Amount: $2306.20
+  Total Receipts: $16720.00
+  Total EOD Reports: $119361285197775632.00
+--------------------
+Date: 2023-01-13
+  Difference: $4440.00
+  DISCREPANCY FOUND!
+  Invoice Count: 1
+  Taxable Amount: $3827.59
+  Tax Amount: $612.41
+  Total Receipts: $4440.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-14
+  Difference: $16330.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $14077.58
+  Tax Amount: $2252.42
+  Total Receipts: $16330.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-15
+  Difference: $0.00
+Date: 2023-01-16
+  Difference: $11340.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $9775.86
+  Tax Amount: $1564.14
+  Total Receipts: $11340.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-17
+  Difference: $10950.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $9439.65
+  Tax Amount: $1510.35
+  Total Receipts: $10950.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-18
+  Difference: $14970.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $12905.17
+  Tax Amount: $2064.83
+  Total Receipts: $14970.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-19
+  Difference: $9890.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $8525.87
+  Tax Amount: $1364.13
+  Total Receipts: $9890.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-20
+  Difference: $1755.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $1512.93
+  Tax Amount: $242.07
+  Total Receipts: $1755.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-21
+  Difference: $7890.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $6801.72
+  Tax Amount: $1088.28
+  Total Receipts: $7890.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-22
+  Difference: $0.00
+Date: 2023-01-23
+  Difference: $14330.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $12353.45
+  Tax Amount: $1976.55
+  Total Receipts: $14330.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-24
+  Difference: $5250.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $4525.86
+  Tax Amount: $724.14
+  Total Receipts: $5250.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-25
+  Difference: $400.00
+  DISCREPANCY FOUND!
+  Invoice Count: 1
+  Taxable Amount: $344.83
+  Tax Amount: $55.17
+  Total Receipts: $400.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-26
+  Difference: $10300.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $8879.31
+  Tax Amount: $1420.69
+  Total Receipts: $10300.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-27
+  Difference: $16170.00
+  DISCREPANCY FOUND!
+  Invoice Count: 8
+  Taxable Amount: $13939.67
+  Tax Amount: $2230.33
+  Total Receipts: $16170.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-28
+  Difference: $41600.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $35862.07
+  Tax Amount: $5737.93
+  Total Receipts: $41600.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-29
+  Difference: $0.00
+Date: 2023-01-30
+  Difference: $750.00
+  DISCREPANCY FOUND!
+  Invoice Count: 1
+  Taxable Amount: $646.55
+  Tax Amount: $103.45
+  Total Receipts: $750.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-01-31
+  Difference: $2370.00
+  DISCREPANCY FOUND!
+  Invoice Count: 1
+  Taxable Amount: $2043.10
+  Tax Amount: $326.90
+  Total Receipts: $2370.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-01
+  Difference: $9960.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $8586.21
+  Tax Amount: $1373.79
+  Total Receipts: $9960.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-02
+  Difference: $720.00
+  DISCREPANCY FOUND!
+  Invoice Count: 1
+  Taxable Amount: $620.69
+  Tax Amount: $99.31
+  Total Receipts: $720.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-03
+  Difference: $10975.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $9461.20
+  Tax Amount: $1513.80
+  Total Receipts: $10975.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-04
+  Difference: $2390.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $2060.34
+  Tax Amount: $329.66
+  Total Receipts: $2390.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-05
+  Difference: $0.00
+Date: 2023-02-06
+  Difference: $26745.00
+  DISCREPANCY FOUND!
+  Invoice Count: 5
+  Taxable Amount: $23056.05
+  Tax Amount: $3688.95
+  Total Receipts: $26745.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-07
+  Difference: $2350.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $2025.87
+  Tax Amount: $324.13
+  Total Receipts: $2350.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-08
+  Difference: $20640.00
+  DISCREPANCY FOUND!
+  Invoice Count: 7
+  Taxable Amount: $17793.10
+  Tax Amount: $2846.90
+  Total Receipts: $20640.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-09
+  Difference: $950.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $818.97
+  Tax Amount: $131.03
+  Total Receipts: $950.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-10
+  Difference: $450.00
+  DISCREPANCY FOUND!
+  Invoice Count: 1
+  Taxable Amount: $387.93
+  Tax Amount: $62.07
+  Total Receipts: $450.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-11
+  Difference: $9660.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $8327.59
+  Tax Amount: $1332.41
+  Total Receipts: $9660.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-12
+  Difference: $0.00
+Date: 2023-02-13
+  Difference: $3640.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $3137.93
+  Tax Amount: $502.07
+  Total Receipts: $3640.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-14
+  Difference: $13540.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $11672.41
+  Tax Amount: $1867.59
+  Total Receipts: $13540.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-15
+  Difference: $33150.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $28577.59
+  Tax Amount: $4572.41
+  Total Receipts: $33150.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-16
+  Difference: $6710.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $5784.48
+  Tax Amount: $925.52
+  Total Receipts: $6710.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-17
+  Difference: $5800.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $5000.00
+  Tax Amount: $800.00
+  Total Receipts: $5800.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-18
+  Difference: $8280.00
+  DISCREPANCY FOUND!
+  Invoice Count: 5
+  Taxable Amount: $7137.93
+  Tax Amount: $1142.07
+  Total Receipts: $8280.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-19
+  Difference: $0.00
+Date: 2023-02-20
+  Difference: $7320.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $6310.34
+  Tax Amount: $1009.66
+  Total Receipts: $7320.00
+  Total EOD Reports: $0.00
+--------------------
+Date: 2023-02-21
+  Difference: $3830.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $3301.72
+  Tax Amount: $528.28
+  Total Receipts: $3830.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-02-22
-  Difference: $0.00
+  Difference: $11990.00
+  DISCREPANCY FOUND!
+  Invoice Count: 5
+  Taxable Amount: $10336.20
+  Tax Amount: $1653.80
+  Total Receipts: $11990.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-02-23
-  Difference: $0.00
+  Difference: $20240.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $17448.28
+  Tax Amount: $2791.72
+  Total Receipts: $20240.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-02-24
-  Difference: $0.00
+  Difference: $12280.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $10586.20
+  Tax Amount: $1693.80
+  Total Receipts: $12280.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-02-25
-  Difference: $0.00
+  Difference: $16380.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $14120.68
+  Tax Amount: $2259.32
+  Total Receipts: $16380.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-02-26
   Difference: $0.00
 Date: 2023-02-27
-  Difference: $0.00
+  Difference: $3480.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $3000.00
+  Tax Amount: $480.00
+  Total Receipts: $3480.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-02-28
-  Difference: $0.00
+  Difference: $12910.00
+  DISCREPANCY FOUND!
+  Invoice Count: 5
+  Taxable Amount: $11129.31
+  Tax Amount: $1780.69
+  Total Receipts: $12910.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-03-01
-  Difference: $0.00
+  Difference: $9210.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $7939.66
+  Tax Amount: $1270.34
+  Total Receipts: $9210.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-03-02
-  Difference: $0.00
+  Difference: $5460.00
+  DISCREPANCY FOUND!
+  Invoice Count: 4
+  Taxable Amount: $4706.90
+  Tax Amount: $753.10
+  Total Receipts: $5460.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-03-03
-  Difference: $0.00
+  Difference: $7100.00
+  DISCREPANCY FOUND!
+  Invoice Count: 2
+  Taxable Amount: $6120.69
+  Tax Amount: $979.31
+  Total Receipts: $7100.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-03-04
-  Difference: $0.00
+  Difference: $1460.00
+  DISCREPANCY FOUND!
+  Invoice Count: 1
+  Taxable Amount: $1258.62
+  Tax Amount: $201.38
+  Total Receipts: $1460.00
+  Total EOD Reports: $0.00
+--------------------
 Date: 2023-03-05
   Difference: $0.00
 Date: 2023-03-06
@@ -141,7 +753,7 @@ Date: 2023-05-01
 Date: 2023-05-02
   Difference: $0.00
 Date: 2023-05-03
-  Difference: $-0.00
+  Difference: $0.00
 Date: 2023-05-04
   Difference: $0.00
 Date: 2023-05-05
@@ -998,11 +1610,17 @@ Date: 2024-07-03
   Difference: $0.00
 Date: 2024-07-04
   Difference: $0.00
+Date: 2024-07-05
+  Difference: $0.00
+Date: 2024-07-06
+  Difference: $0.00
 Date: 2024-07-07
   Difference: $0.00
 Date: 2024-07-08
   Difference: $0.00
 Date: 2024-07-09
+  Difference: $0.00
+Date: 2024-07-10
   Difference: $0.00
 Date: 2024-07-11
   Difference: $0.00
@@ -1042,6 +1660,12 @@ Date: 2024-07-28
   Difference: $0.00
 Date: 2024-07-29
   Difference: $0.00
+Date: 2024-07-30
+  Difference: $0.00
+Date: 2024-07-31
+  Difference: $0.00
+Date: 2024-08-01
+  Difference: $0.00
 Date: 2024-08-02
   Difference: $0.00
 Date: 2024-08-03
@@ -1052,9 +1676,19 @@ Date: 2024-08-05
   Difference: $0.00
 Date: 2024-08-06
   Difference: $0.00
+Date: 2024-08-07
+  Difference: $0.00
 Date: 2024-08-08
   Difference: $0.00
+Date: 2024-08-09
+  Difference: $0.00
 Date: 2024-08-10
+  Difference: $0.00
+Date: 2024-08-11
+  Difference: $0.00
+Date: 2024-08-12
+  Difference: $0.00
+Date: 2024-08-13
   Difference: $0.00
 Date: 2024-08-14
   Difference: $0.00
@@ -1078,6 +1712,8 @@ Date: 2024-08-23
   Difference: $0.00
 Date: 2024-08-24
   Difference: $0.00
+Date: 2024-08-25
+  Difference: $0.00
 Date: 2024-08-26
   Difference: $0.00
 Date: 2024-08-27
@@ -1091,6 +1727,10 @@ Date: 2024-08-30
 Date: 2024-08-31
   Difference: $0.00
 Date: 2024-09-01
+  Difference: $0.00
+Date: 2024-09-02
+  Difference: $0.00
+Date: 2024-09-03
   Difference: $0.00
 Date: 2024-09-04
   Difference: $0.00
@@ -1106,11 +1746,17 @@ Date: 2024-09-09
   Difference: $0.00
 Date: 2024-09-10
   Difference: $0.00
+Date: 2024-09-11
+  Difference: $0.00
+Date: 2024-09-12
+  Difference: $0.00
 Date: 2024-09-13
   Difference: $0.00
 Date: 2024-09-14
   Difference: $0.00
 Date: 2024-09-15
+  Difference: $0.00
+Date: 2024-09-16
   Difference: $0.00
 Date: 2024-09-17
   Difference: $0.00
@@ -1120,9 +1766,17 @@ Date: 2024-09-19
   Difference: $0.00
 Date: 2024-09-20
   Difference: $0.00
+Date: 2024-09-21
+  Difference: $0.00
 Date: 2024-09-22
   Difference: $0.00
 Date: 2024-09-23
+  Difference: $0.00
+Date: 2024-09-24
+  Difference: $0.00
+Date: 2024-09-25
+  Difference: $0.00
+Date: 2024-09-26
   Difference: $0.00
 Date: 2024-09-27
   Difference: $0.00
@@ -1130,9 +1784,15 @@ Date: 2024-09-28
   Difference: $0.00
 Date: 2024-09-29
   Difference: $0.00
+Date: 2024-09-30
+  Difference: $0.00
 Date: 2024-10-01
   Difference: $0.00
 Date: 2024-10-02
+  Difference: $0.00
+Date: 2024-10-03
+  Difference: $0.00
+Date: 2024-10-04
   Difference: $0.00
 Date: 2024-10-05
   Difference: $0.00
@@ -1158,7 +1818,17 @@ Date: 2024-10-15
   Difference: $0.00
 Date: 2024-10-16
   Difference: $0.00
+Date: 2024-10-17
+  Difference: $0.00
 Date: 2024-10-18
+  Difference: $0.00
+Date: 2024-10-19
+  Difference: $0.00
+Date: 2024-10-20
+  Difference: $0.00
+Date: 2024-10-21
+  Difference: $0.00
+Date: 2024-10-22
   Difference: $0.00
 Date: 2024-10-23
   Difference: $0.00
@@ -1734,3 +2404,14 @@ Date: 2025-08-04
   Difference: $0.00
 Date: 2025-08-05
   Difference: $0.00
+Date: 2025-08-06
+  Difference: $0.00
+Date: 2025-08-07
+  Difference: $12.00
+  DISCREPANCY FOUND!
+  Invoice Count: 3
+  Taxable Amount: $10.34
+  Tax Amount: $1.66
+  Total Receipts: $12.00
+  Total EOD Reports: $0.00
+--------------------
