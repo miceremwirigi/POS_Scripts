@@ -3,20 +3,8 @@ import json
 import re
 
 # Define the expected values for specific items
-NEW_ITEM_DATA_CORRECTION = {
-    "DEP 1": {
-        "itemCd": "DEP 1",
-        "itemClsCd": "99010000",
-        "itemNm": "FOOD",
-        "bcd": ""
-    },
-    "DEP 2": {
-        "itemCd": "DEP 2",
-        "itemClsCd": "99010000",
-        "itemNm": "DRINKS",
-        "bcd": ""
-    }
-}
+# This is now a dynamic dictionary populated by the script
+KNOWN_ITEM_DATA = {} 
 
 # Define all expected top-level fields and their default empty values/types
 DEFAULT_TOP_LEVEL_FIELDS = {
@@ -39,12 +27,12 @@ DEFAULT_TOP_LEVEL_FIELDS = {
     "rfdRsnCd": "",
     "totItemCnt": 0,
     "taxblAmtA": 0.0,
-    "taxblAmtB": 0.0,
+    "taxblAmtB": 16.0,
     "taxblAmtC": 0.0,
     "taxblAmtD": 0.0,
     "taxblAmtE": 0.0,
     "taxRtA": 0.0,
-    "taxRtB": 0.0,
+    "taxRtB": 16.0,
     "taxRtC": 0.0,
     "taxRtD": 0.0,
     "taxRtE": 0.0,
@@ -87,7 +75,10 @@ def _robust_json_clean_string(text_content):
             (0x00 <= ord_char <= 0x1F) or # C0 control characters
             (0x80 <= ord_char <= 0x9F) or # C1 control characters
             (ord_char == 0x7F) or         # DEL character
-            (ord_char == 0xFF)            # Latin Small Letter Y with Diaeresis (ÿ / 0xFF)
+            (ord_char == 0xFF) or         # Latin Small Letter Y with Diaeresis (ÿ / 0xFF)
+            (ord_char == 0x1C) or         # File Separator (FS)
+            (ord_char == 0x03) or         # End of Text (ETX)
+            (ord_char == 0x01)            # Start of Heading (SOH)
         )
 
         if in_string:
@@ -130,7 +121,6 @@ def _attempt_structural_fix_and_parse(text_content):
         data = json.loads(text_content)
         return data, modified_in_this_function
     except json.JSONDecodeError as e:
-        print(f"    Structural JSONDecodeError: {str(e)}. Attempting advanced structural repair.")
         modified_in_this_function = True # A fix is needed
 
         # Strategy A: Aggressive trimming to find *any* parsable JSON prefix
@@ -152,25 +142,19 @@ def _attempt_structural_fix_and_parse(text_content):
                         json.loads(test_string) 
                         if len(test_string) > len(longest_valid_prefix):
                             longest_valid_prefix = test_string
-                        # Found a valid one, might still find longer.
                     except json.JSONDecodeError:
-                        pass # This combination is not valid
+                        pass
             if len(longest_valid_prefix) > len("{}"): 
                 break 
 
         # Now, try to parse the best prefix found
         try:
             data = json.loads(longest_valid_prefix)
-            print("    Successfully parsed via aggressive longest prefix strategy.")
-            return data, modified_in_this_function # Success
+            return data, modified_in_this_function
         except json.JSONDecodeError as e:
-            print(f"    Aggressive longest prefix strategy failed: {str(e)}. Falling back to minimal JSON.")
-            # If even the most aggressive prefix find fails, return a minimal valid JSON
-            return {}, True # Return empty dict, implies heavy modification
+            return {}, True
 
-    # This part should ideally not be reached if first try-block succeeded
-    # or the aggressive prefix find returned valid JSON.
-    return {}, True # Fallback if unforeseen path leads here, signifies failure and forced minimal
+    return {}, True
 
 
 def _extract_all_item_fields_from_raw(raw_item_string):
@@ -210,32 +194,66 @@ def _extract_all_item_fields_from_raw(raw_item_string):
         if match:
             value = match.group(1)
             if field in ["itemSeq", "pkg", "qty", "prc", "splyAmt", "dcRt", "dcAmt", 
-                          "isrcRt", "isrcAmt", "taxblAmt", "taxAmt", "totAmt"]:
+                         "isrcRt", "isrcAmt", "taxblAmt", "taxAmt", "totAmt"]:
                 try:
                     extracted_data[field] = float(value) if '.' in value else int(value)
                 except ValueError:
                     pass 
             else: # String fields
                 try:
-                    # Defensive check: ensure _robust_json_clean_string is callable
                     if callable(_robust_json_clean_string):
-                        # Wrap value in quotes to ensure it's treated as a JSON string literal for cleaning
                         cleaned_val_with_quotes = _robust_json_clean_string(f'"{value}"')
                         if isinstance(cleaned_val_with_quotes, str): 
                             extracted_data[field] = cleaned_val_with_quotes.strip('"')
                         else:
-                            print(f"    Warning: _robust_json_clean_string returned non-string for field {field} (value: '{value}'): {cleaned_val_with_quotes}")
-                            extracted_data[field] = "" # Default if cleaning failed to produce string
+                            extracted_data[field] = ""
                     else:
-                        print(f"    CRITICAL ERROR: _robust_json_clean_string is not callable (it is type {type(_robust_json_clean_string).__name__}). Defaulting field '{field}'.")
-                        extracted_data[field] = "" # Default if function itself is corrupted
+                        extracted_data[field] = ""
                 except Exception as e:
-                    print(f"    ERROR processing field '{field}' with value '{value}': {type(e).__name__}: {e}")
-                    extracted_data[field] = "" # Default on any error
+                    extracted_data[field] = ""
     
     return extracted_data
 
+def _learn_item_data(file_path):
+    """
+    Reads a JSON file, and if it's clean and valid, extracts and stores the
+    item metadata (itemCd, itemClsCd, itemNm) for future correction.
+    """
+    global KNOWN_ITEM_DATA
+    try:
+        with open(file_path, 'rb') as f:
+            raw_bytes = f.read()
+            content = raw_bytes.decode('utf-8', errors='ignore')
 
+        data = json.loads(content)
+        
+        if "itemList" not in data:
+            return False
+
+        for item in data["itemList"]:
+            item_cd = item.get("itemCd")
+            item_cls_cd = item.get("itemClsCd")
+            item_nm = item.get("itemNm")
+            
+            if isinstance(item_cd, str) and item_cd and \
+               isinstance(item_cls_cd, str) and item_cls_cd and \
+               isinstance(item_nm, str) and item_nm:
+                
+                if not is_printable_ascii(item_cls_cd.replace(' ', '')):
+                    continue
+                
+                if item_cd not in KNOWN_ITEM_DATA or KNOWN_ITEM_DATA[item_cd]["itemClsCd"] != item_cls_cd:
+                    KNOWN_ITEM_DATA[item_cd] = {
+                        "itemCd": item_cd,
+                        "itemClsCd": item_cls_cd,
+                        "itemNm": item_nm,
+                        "bcd": ""
+                    }
+        return True
+
+    except (json.JSONDecodeError, UnicodeDecodeError, KeyError, TypeError):
+        return False
+    
 def fix_json_file(file_path):
     """
     Attempts to fix common JSON errors in a single file:
@@ -243,15 +261,15 @@ def fix_json_file(file_path):
     2. Aggressively cleans raw content: removes non-printable ASCII, invalid escapes, and control characters (including ÿ).
     3. Guarantees JSON parseability by finding the longest valid prefix and/or reconstructing core structures.
     4. Reconstructs missing data in itemList items with defaults, prioritizing original prc/qty if available.
-    5. Applies logical corrections for specific items (DEP 1, DEP 2) based on their itemCd.
+    5. Applies logical corrections for specific items (e.g., DEP 1) based on the dynamically learned item data.
     6. Validates and recalculates all financial totals (item-level and top-level) based on prc/qty/taxTyCd.
     """
+    global KNOWN_ITEM_DATA
     original_content_raw_read = None 
     original_content_cleaned_chars = None 
     file_modified = False
     had_char_corruption_issue = False 
     
-    # --- Step 1: Robustly read file content and perform initial aggressive character cleanup ---
     try:
         with open(file_path, 'rb') as f: 
             raw_bytes = f.read()
@@ -260,12 +278,10 @@ def fix_json_file(file_path):
         print(f"    ERROR: Could not read {file_path} in binary mode: {e}")
         return False
 
-    # Check for BOM and remove it
     if original_content_raw_read.startswith('\ufeff'):
         original_content_raw_read = original_content_raw_read.lstrip('\ufeff')
         file_modified = True
 
-    # Apply aggressive character/escape cleaning before any JSON parsing attempt
     cleaned_content_for_parse = _robust_json_clean_string(original_content_raw_read)
     original_content_cleaned_chars = cleaned_content_for_parse 
 
@@ -274,8 +290,6 @@ def fix_json_file(file_path):
         file_modified = True
         had_char_corruption_issue = True 
 
-
-    # --- Prevent Unnecessary Modification of Good Files ---
     try:
         temp_data_for_check = json.loads(original_content_cleaned_chars)
         
@@ -317,23 +331,19 @@ def fix_json_file(file_path):
             print(f"    {file_path} parsed cleanly with no character issues and is logically consistent. Skipping further modifications.")
             return False 
     except json.JSONDecodeError:
-        pass # Not clean, proceed with full fixing
+        pass
 
-
-    # --- Step 2: Guarantee JSON Parseability and Structural Integrity ---
     data, structural_fix_applied = _attempt_structural_fix_and_parse(original_content_cleaned_chars)
     
     if structural_fix_applied:
         file_modified = True
         if not data: 
             had_char_corruption_issue = True 
-        print(f"    Successfully parsed {file_path} after structural repair. Structural fix applied: {structural_fix_applied}")
+        print(f"    Successfully parsed {file_path} after structural repair.")
 
     if data is None: 
         print(f"    ERROR: Data is None after structural repair for {file_path}. Skipping file.")
         return False
-    
-    # --- Step 2.6 (NEW): Consolidate/Recover ALL Top-Level Fields from raw data hints ---
     
     temp_recovered_top_level_fields = {} 
 
@@ -386,11 +396,9 @@ def fix_json_file(file_path):
         if key != "itemList": 
             data[key] = value
 
-    # --- Step 2.7 (Refined): Consolidate/Recover itemList with raw data hints ---
     final_item_list_for_processing = []
     processed_item_ids = set() 
 
-    # 1. Add items that were successfully parsed from the current 'data' object
     if "itemList" in data and isinstance(data["itemList"], list):
         for parsed_item_candidate in data["itemList"]:
             if isinstance(parsed_item_candidate, dict):
@@ -402,8 +410,6 @@ def fix_json_file(file_path):
                 print(f"    Warning: Non-dict item found in parsed itemList: {parsed_item_candidate}")
                 file_modified = True
 
-    # 2. Aggressively regex-recover items from the original raw content that might have been missed.
-    
     itemlist_array_match = re.search(r'"itemList":\[(.*?)\]', original_content_raw_read, re.DOTALL)
 
     if itemlist_array_match:
@@ -440,7 +446,6 @@ def fix_json_file(file_path):
     data["itemList"] = final_item_list_for_processing
 
 
-    # --- Step 3: Apply logical data corrections & Totals Validation ---
     if file_modified: 
         calculated_tot_item_cnt = 0
         calculated_tot_taxbl_amt = 0.0
@@ -479,17 +484,26 @@ def fix_json_file(file_path):
             item.setdefault("taxAmt", 0.0)
             item.setdefault("totAmt", 0.0)
             
-            # --- NEW CODE BLOCK: Apply the specific DEP1/DEP2 corrections ---
             current_item_cd = item.get("itemCd")
-            if current_item_cd in NEW_ITEM_DATA_CORRECTION:
-                correction_data = NEW_ITEM_DATA_CORRECTION[current_item_cd]
-                for key, expected_value in correction_data.items():
-                    if item.get(key) != expected_value:
-                        item[key] = expected_value
-                        file_modified = True
-                        print(f"    Correcting field '{key}' in item {i+1} with itemCd '{current_item_cd}' based on specific rules.")
-            # --- END NEW CODE BLOCK ---
+            if current_item_cd in KNOWN_ITEM_DATA:
+                correction_data = KNOWN_ITEM_DATA[current_item_cd]
+                if item.get("itemClsCd") != correction_data["itemClsCd"]:
+                    item["itemClsCd"] = correction_data["itemClsCd"]
+                    file_modified = True
+                    print(f"    Correcting field 'itemClsCd' in item {i+1} with itemCd '{current_item_cd}' using learned data.")
+                
+                if item.get("itemNm") != correction_data["itemNm"]:
+                    item["itemNm"] = correction_data["itemNm"]
+                    file_modified = True
+                    print(f"    Correcting field 'itemNm' in item {i+1} with itemCd '{current_item_cd}' using learned data.")
             
+            # --- NEW CODE: Validate and fix the 'bcd' field ---
+            bcd_value = item.get("bcd", "")
+            if bcd_value and not re.fullmatch(r'[\w\d]*', bcd_value):
+                item["bcd"] = ""
+                file_modified = True
+                print(f"    Correcting corrupted 'bcd' field in item {i+1} to an empty string.")
+
             prc = item.get("prc")
             qty = item.get("qty")
             tax_ty_cd = item.get("taxTyCd")
@@ -519,7 +533,7 @@ def fix_json_file(file_path):
                 if abs(item.get("taxblAmt", 0.0) - item_calculated_taxbl_amt) > 0.01:
                     item["taxblAmt"] = item_calculated_taxbl_amt
                     file_modified = True
-                    print(f"    Corrected item {i}'s taxblAmt in {file_path} to {item_calculated_tax_amt}.")
+                    print(f"    Corrected item {i}'s taxblAmt in {file_path} to {item_calculated_taxbl_amt}.")
                 
                 if abs(item.get("taxAmt", 0.0) - item_calculated_tax_amt) > 0.01:
                     item["taxAmt"] = item_calculated_tax_amt
@@ -560,11 +574,10 @@ def fix_json_file(file_path):
             print(f"    Corrected top-level totAmt in {file_path} to {calculated_tot_amt}.")
 
 
-    # --- Step 4: Write fixed data back to file if modified ---
     if file_modified:
         try:
             with open(file_path, 'w', encoding='utf-8') as f:
-                json.dump(data, f, separators=(',', ':')) # No indentation, compact format
+                json.dump(data, f, separators=(',', ':'))
             print(f"    SUCCESS: {file_path} has been fixed and saved.")
             return True
         except Exception as e:
@@ -572,7 +585,25 @@ def fix_json_file(file_path):
             return False
     else:
         return False
-        
+    
+def _learn_from_files(parent_directory):
+    """
+    First pass: Walks through all files to learn correct item data from
+    clean, valid JSON files.
+    """
+    print("--- Starting Learning Phase (Pass 1) ---")
+    learned_from_count = 0
+    total_files = 0
+    for root, _, files in os.walk(parent_directory):
+        for file in files:
+            if file.endswith(".txt"):
+                file_path = os.path.join(root, file)
+                total_files += 1
+                if _learn_item_data(file_path):
+                    learned_from_count += 1
+    
+    print(f"\nLearning Phase Complete. Learned from {learned_from_count} of {total_files} files.")
+    print("-------------------------------------------\n")
 
 if __name__ == "__main__":
     while True:
@@ -581,11 +612,13 @@ if __name__ == "__main__":
             break
         else:
             print("Invalid path. Please enter a valid directory.")
+    
+    _learn_from_files(parent_directory)
 
     fixed_count = 0
     skipped_count = 0
     
-    print(f"\nStarting automated fixes in: {parent_directory}\n")
+    print(f"--- Starting Automated Fixes (Pass 2) in: {parent_directory} ---\n")
 
     for root, _, files in os.walk(parent_directory):
         for file in files:
@@ -596,7 +629,7 @@ if __name__ == "__main__":
                     fixed_count += 1
                 else:
                     skipped_count += 1
-                print("-" * 50) # Separator for readability
+                print("-" * 50)
 
     print("\n--- Fixing Complete ---")
     print(f"Files Fixed: {fixed_count}")
